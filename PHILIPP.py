@@ -1,0 +1,1 @@
+print(r'ПЕРЕЙДИТЕ ПО ССЫЛКЕ: https://www.youtube.com/watch?v=Cxmvq1MCR3c')
