@@ -13,7 +13,7 @@ req = requests.get("https://www.banki.ru/news/lenta/", headers=headers)
 content = req.text
 matches = re.findall(r'href="/news/lenta/\?id=[^\D]*', content)
 
-s = open('newslinks.txt', 'w')
+s = open('mishanya/banki_ru/newslinks.txt', 'w')
 for match in matches:
     s.write("https://www.banki.ru/"+match[7:]+'\n')
 s.close()
