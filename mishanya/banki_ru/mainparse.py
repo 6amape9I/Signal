@@ -7,13 +7,11 @@ headers = {
     "Accept": st_accept,
     "User-Agent": st_useragent
 }
-
-req = requests.get("https://www.banki.ru/news/lenta/", headers=headers)
-
-content = req.text
-matches = re.findall(r'href="/news/lenta/\?id=[^\D]*', content)
-
 s = open('mishanya/banki_ru/newslinks.txt', 'w')
-for match in matches:
-    s.write("https://www.banki.ru/"+match[7:]+'\n')
+for i in range(1,7735):
+    req = requests.get(f"https://www.banki.ru/news/lenta/?page={i}", headers=headers)
+    content = req.text
+    matches = re.findall(r'href="/news/lenta/\?id=[^\D]*', content)
+    for match in matches:
+        s.write("https://www.banki.ru/"+match[7:]+'\n')
 s.close()
