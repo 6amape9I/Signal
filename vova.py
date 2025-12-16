@@ -1,2 +1,2 @@
 for i in range(int(input())):
-    print('майя')
+    print('')
