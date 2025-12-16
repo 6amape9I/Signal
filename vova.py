@@ -1,4 +1,2 @@
-def HelloWorld(a):
-    print(a)
-HelloWorld('print')
-print('ad')
+for i in range(int(input())):
+    print('майя')
