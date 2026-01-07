@@ -26,7 +26,6 @@ def get_article_links():
         response.raise_for_status()
         soup = BeautifulSoup(response.text, 'html.parser')
         
-        # Поиск ссылок на новости (обычно в карточках новостей)
         links = set()
         for link in soup.find_all('a', href=True):
             href = link['href']
@@ -47,9 +46,7 @@ def parse_article(url):
         response.raise_for_status()
         soup = BeautifulSoup(response.text, 'html.parser')
         
-        # Извлечение заголовка
         title = None
-        # Попробуем несколько вариантов
         for tag in ['h1', 'h2']:
             el = soup.find(tag)
             if el and el.get_text(strip=True):
@@ -58,10 +55,8 @@ def parse_article(url):
         if not title:
             title = "Без заголовка"
         
-        # Извлечение текста статьи
         content_blocks = soup.find_all('div', class_='article__text')
         if not content_blocks:
-            # запасной вариант: параграфы внутри article
             content_blocks = soup.find_all('p')
         full_text = ' '.join([p.get_text(strip=True) for p in content_blocks if p.get_text(strip=True)])
         if not full_text:
@@ -118,10 +113,8 @@ def main():
         else:
             print(f"Пропускаю статью по адресу: {url}")
         
-        # Небольшая пауза, чтобы не нагружать сервер
         time.sleep(1)
 
-    # Получение и вывод отсортированных данных
     print("\n--- Отсортированные заголовки из базы данных ---")
     cursor = conn.cursor()
     cursor.execute('SELECT title, content, url FROM articles ORDER BY title ASC')
@@ -131,7 +124,6 @@ def main():
         print(f"Заголовок: {row[0]}")
         print(f"Текст (первые 100 символов): {row[1][:100]}...\n")
     
-    # Запись в текстовый файл
     txt_path = 'vesti_news.txt'
     write_to_text_file(txt_path, articles_for_txt)
     print(f"\nТекстовый файл создан: {txt_path}")
