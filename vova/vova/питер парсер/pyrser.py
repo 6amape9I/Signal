@@ -9,3 +9,4 @@ def GetNews(page):
 for i in range(1,10):
     GetNews(i)
     print('sled str')
+    print('')
