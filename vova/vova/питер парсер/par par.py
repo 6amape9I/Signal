@@ -70,7 +70,7 @@ def parse_article(url):
 def save_to_db(conn, title, content, url):
     cursor = conn.cursor()
     try:
-        cursor.execute('''
+        cursor.execute(f'''
             INSERT OR IGNORE INTO articles (title, content, url)
             VALUES (?, ?, ?)
         ''', (title, content, url))
