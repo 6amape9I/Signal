@@ -1,0 +1,31 @@
+{
+  "paths": {
+    "base_model_dir": "finetune_pipeline/base_models/mmBERT-base",
+    "dataset_path": "finetune_pipeline/data/combined_processed/combined_dataset.json",
+    "label_mapping_path": "finetune_pipeline/data/combined_processed/output_to_symbol.json",
+    "output_dir": "finetune_pipeline/artifacts"
+  },
+  "data": {
+    "max_length": 384,
+    "train_ratio": 0.8,
+    "val_ratio": 0.1,
+    "seed": 42
+  },
+  "model": {
+    "dropout": 0.2,
+    "hidden_dim": 256
+  },
+  "training": {
+    "epochs": 3,
+    "batch_size": 1,
+    "gradient_accumulation_steps": 1,
+    "num_workers": 0,
+    "learning_rate": 0.001,
+    "encoder_learning_rate": 5e-06,
+    "weight_decay": 0.01,
+    "max_grad_norm": 1.0,
+    "freeze_backbone": true,
+    "mixed_precision": "fp16",
+    "log_every_steps": 1
+  }
+}
