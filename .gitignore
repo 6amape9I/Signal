@@ -39,3 +39,5 @@ datasets/raw/**/tmp_*
 datasets/interim/**/tmp_*
 datasets/interim/**/*.tmp
 /analysis/reports/manual_review.xlsx
+/datasets/interim/dataset_clean.jsonl
+/datasets/interim/dataset_clean.parquet

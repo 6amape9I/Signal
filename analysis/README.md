@@ -1,69 +1,85 @@
-﻿# Analysis Pipeline for Signal
+﻿# Analysis and Rebuild Pipeline for Signal
 
-This contour turns Signal into a reproducible analysis and rebuild repository for the news dataset.
+Этот контур нужен для финальной подготовки новостного датасета перед переносом в `signal_back`.
 
-## Raw Dataset
+## Источник данных
 
-The source Excel file is expected at:
+Исходный Excel-файл лежит локально и не коммитится в git:
 
 ```text
 datasets/raw/raw_dataset.xlsx
 ```
 
-The file is local and intentionally not committed to git.
+Rebuild никогда не изменяет исходный `raw_dataset.xlsx`.
 
-## Run Analysis
+## Финальная таксономия
+
+После rebuild в датасете остаются только категории:
+- `Политика`
+- `Общество`
+- `Спорт`
+- `Экономика_и_бизнес`
+
+Слияние в `Экономика_и_бизнес`:
+- `Экономика`
+- `Финансы`
+- `Бизнес`
+- `Технологии и медиа`
+
+Полностью удаляются:
+- `База знаний`
+- `Авто`
+- `Свое дело`
+- `Недвижимость`
+
+Правила зафиксированы в [analysis/configs/category_merge_rules.yaml](/F:/pycharm_projects/Signal/analysis/configs/category_merge_rules.yaml).
+
+## Очистка текста
+
+Rebuild-пайплайн:
+- вырезает массовый boilerplate и рекламные хвосты;
+- удаляет артефакты Excel/HTML, включая `_x000d_`;
+- нормализует пробелы и безопасно склеивает разорванные переносами слова;
+- использует `body` как fallback, если `text` пустой;
+- удаляет строки без пригодного текста, без категории или с слишком коротким `model_input`.
+
+Правила boilerplate зафиксированы в [analysis/configs/boilerplate_rules.yaml](/F:/pycharm_projects/Signal/analysis/configs/boilerplate_rules.yaml).
+
+## Анализ raw-датасета
 
 ```powershell
 python scripts/analyze_raw_dataset.py
 ```
 
-The analysis pipeline:
-- loads `datasets/raw/raw_dataset.xlsx`
-- normalizes column names without mutating the source file
-- analyzes schema and missing values
-- analyzes label balance and merge candidates
-- analyzes duplicates and near-duplicates
-- analyzes text quality and boilerplate tails
-- builds `analysis/reports/manual_review.xlsx`
+Скрипт генерирует отчёты в `analysis/reports/` по схеме, дисбалансу, дублям, boilerplate и спорным случаям для ручной проверки.
 
-## Run Rebuild
+## Финальная пересборка
 
 ```powershell
 python scripts/rebuild_raw_dataset.py
 ```
 
-The rebuild pipeline:
-- reads the same raw Excel
-- applies `analysis/configs/category_merge_rules.yaml`
-- applies `analysis/configs/boilerplate_rules.yaml`
-- creates cleaned text fields and `model_input`
-- removes only configured drops and exact duplicates by reproducible rules
-- writes artifacts to `datasets/interim/`
+Rebuild делает следующее:
+- применяет финальные merge/drop-правила категорий;
+- очищает текст и boilerplate;
+- удаляет строки с пустой категорией, пустым заголовком и непригодным контентом;
+- делает content-based dedupe по `(title, text_clean)` и осторожный near-dedup для повторов одного материала;
+- готовит clean dataset для `signal_back`.
 
-The rebuild step never edits the original Excel file.
+## Результаты rebuild
 
-## Generated Reports
+Файлы пересборки:
+- `datasets/interim/dataset_clean.parquet`
+- `datasets/interim/dataset_clean.jsonl`
+- `datasets/interim/label_mapping.json`
+- `datasets/interim/build_report.json`
 
-Analysis writes reports to `analysis/reports/`, including:
-- `schema_report.json`
-- `missing_values.csv`
-- `class_distribution.csv`
-- `class_distribution_top.png`
-- `class_distribution_tail.csv`
-- `class_weights.csv`
-- `merge_candidates.csv`
-- `duplicate_urls.csv`
-- `exact_duplicates.csv`
-- `near_duplicates.csv`
-- `label_conflicts.csv`
-- `text_length_stats.json`
-- `text_length_distribution.png`
-- `boilerplate_candidates.csv`
-- `empty_or_short_texts.csv`
-- `manual_review.xlsx`
-- `summary.md`
+Финальные clean-отчёты:
+- `analysis/reports/clean_summary.md`
+- `analysis/reports/clean_class_distribution.csv`
+- `analysis/reports/clean_duplicates_removed.csv`
+- `analysis/reports/clean_quality_report.json`
 
-## Goal
+## Цель
 
-The goal of this contour is to prepare the dataset for informed merge/clean/drop decisions and then transfer a cleaned dataset into `signal_back`.
+Итоговая цель этого контура — получить воспроизводимый чистый датасет с новой таксономией, очищенным текстом и понятным build report, готовый к передаче в `signal_back`.

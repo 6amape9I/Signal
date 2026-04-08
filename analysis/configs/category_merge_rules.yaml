@@ -1,16 +1,40 @@
-﻿# Category merge rules for manual review decisions.
+﻿# Final category taxonomy for the clean dataset.
 #
-# Example structure:
-# merge_rules:
-#   - canonical_label: "Финансы и банки"
-#     aliases:
-#       - "Банки"
-#       - "Финансы"
-# drop_labels:
-#   - "Служебная категория"
-# keep_separate:
-#   - "Экономика и бизнес"
+# Rules are applied in this order during rebuild:
+# 1. merge_rules normalize raw labels into final categories
+# 2. drop_labels remove forbidden categories entirely
+# 3. empty labels are removed by quality rules
+#
+# Final classes after rebuild:
+# - Политика
+# - Общество
+# - Спорт
+# - Экономика_и_бизнес
 
-merge_rules: []
-drop_labels: []
-keep_separate: []
+merge_rules:
+  - canonical_label: "Политика"
+    aliases:
+      - "Политика"
+  - canonical_label: "Общество"
+    aliases:
+      - "Общество"
+  - canonical_label: "Спорт"
+    aliases:
+      - "Спорт"
+  - canonical_label: "Экономика_и_бизнес"
+    aliases:
+      - "Экономика"
+      - "Финансы"
+      - "Бизнес"
+      - "Технологии и медиа"
+
+drop_labels:
+  - "База знаний"
+  - "Авто"
+  - "Свое дело"
+  - "Недвижимость"
+
+keep_separate:
+  - "Политика"
+  - "Общество"
+  - "Спорт"

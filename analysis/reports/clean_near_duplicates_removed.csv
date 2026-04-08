@@ -1,0 +1,2 @@
+removal_stage,match_type,removed_record_id,kept_record_id,removed_category_teacher_final,kept_category_teacher_final,title,fronturl,kept_fronturl,removed_text_length,kept_text_length,title_ratio,text_ratio,text_partial_ratio,label_conflict_in_group
+near_content,rbcfreenews_vs_article,raw_8225,raw_8226,Политика,Политика,В Одессе и области прогремели взрывы,https://www.rbc.ru/rbcfreenews/65e649d99a7947507c862e39,https://www.rbc.ru/politics/05/03/2024/65e649d99a7947507c862e39,484,484,88.60759493670886,100.0,100.0,False

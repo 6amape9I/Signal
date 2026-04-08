@@ -28,12 +28,15 @@ def main() -> None:
     result = rebuild_dataset(raw_dataset_path=args.input)
     report = result["build_report"]
     logging.info(
-        "Rebuild complete: input_rows=%s, rows_after_rebuild=%s, dedupe_removed=%s, config_drops=%s",
+        "Rebuild complete: raw_rows=%s, final_rows=%s, forbidden_removed=%s, empty_label_removed=%s, exact_dedup_removed=%s, near_dedup_removed=%s",
         report["input_rows"],
-        report["rows_after_deduplication"],
-        report["dedupe_removed_count"],
-        report["dropped_by_config_count"],
+        report["final_rows"],
+        report["removal_reasons"]["forbidden_category"],
+        report["removal_reasons"]["empty_category_teacher"],
+        report["deduplication"]["exact_duplicates_removed"],
+        report["deduplication"]["near_duplicates_removed"],
     )
+    logging.info("Final classes: %s", ", ".join(report["final_classes"]))
 
 
 if __name__ == "__main__":

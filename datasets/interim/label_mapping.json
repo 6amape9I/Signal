@@ -1,0 +1,78 @@
+{
+  "final_classes": [
+    "Общество",
+    "Политика",
+    "Спорт",
+    "Экономика_и_бизнес"
+  ],
+  "merge_rules": [
+    {
+      "canonical_label": "Политика",
+      "aliases": [
+        "Политика"
+      ]
+    },
+    {
+      "canonical_label": "Общество",
+      "aliases": [
+        "Общество"
+      ]
+    },
+    {
+      "canonical_label": "Спорт",
+      "aliases": [
+        "Спорт"
+      ]
+    },
+    {
+      "canonical_label": "Экономика_и_бизнес",
+      "aliases": [
+        "Экономика",
+        "Финансы",
+        "Бизнес",
+        "Технологии и медиа"
+      ]
+    }
+  ],
+  "drop_labels": [
+    "База знаний",
+    "Авто",
+    "Свое дело",
+    "Недвижимость"
+  ],
+  "keep_separate": [
+    "Политика",
+    "Общество",
+    "Спорт"
+  ],
+  "observed_mapping": [
+    {
+      "category_teacher_raw": "Бизнес",
+      "category_teacher_final": "Экономика_и_бизнес"
+    },
+    {
+      "category_teacher_raw": "Общество",
+      "category_teacher_final": "Общество"
+    },
+    {
+      "category_teacher_raw": "Политика",
+      "category_teacher_final": "Политика"
+    },
+    {
+      "category_teacher_raw": "Спорт",
+      "category_teacher_final": "Спорт"
+    },
+    {
+      "category_teacher_raw": "Технологии и медиа",
+      "category_teacher_final": "Экономика_и_бизнес"
+    },
+    {
+      "category_teacher_raw": "Финансы",
+      "category_teacher_final": "Экономика_и_бизнес"
+    },
+    {
+      "category_teacher_raw": "Экономика",
+      "category_teacher_final": "Экономика_и_бизнес"
+    }
+  ]
+}

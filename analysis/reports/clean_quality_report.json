@@ -1,0 +1,63 @@
+{
+  "raw_rows": 45097,
+  "rows_removed_total": 77,
+  "removal_reasons": {
+    "forbidden_category": 45,
+    "empty_category_teacher": 25,
+    "empty_title": 0,
+    "empty_text_and_body": 0,
+    "short_model_input": 0
+  },
+  "forbidden_category_counts": {
+    "База знаний": 31,
+    "Авто": 10,
+    "Свое дело": 3,
+    "Недвижимость": 1
+  },
+  "merge_counts": {
+    "into_Экономика_и_бизнес": 5349,
+    "by_raw_category": {
+      "Бизнес": 1950,
+      "Технологии и медиа": 1255,
+      "Экономика": 1184,
+      "Финансы": 960
+    }
+  },
+  "deduplication": {
+    "rows_before_deduplication": 45027,
+    "rows_after_exact_deduplication": 45021,
+    "rows_after_near_deduplication": 45020,
+    "exact_duplicates_removed": 6,
+    "near_duplicates_removed": 1
+  },
+  "boilerplate": {
+    "rows_changed_by_cleaning": 44175,
+    "rows_using_body_fallback": 34,
+    "rows_with_boilerplate_rules_applied": 44158,
+    "top_applied_rules": [
+      {
+        "rule": "regex:(?is)варианты на разный бюджет выгодные предложения.*?реклама,\\s*пао\\s*[«\"]пик сз[»\"]\\s*$",
+        "count": 44140
+      },
+      {
+        "rule": "regex:(?is)_x000d_+",
+        "count": 837
+      },
+      {
+        "rule": "body:regex:(?is)_x000d_+",
+        "count": 19
+      }
+    ]
+  },
+  "final_rows": 45020,
+  "final_classes": [
+    "Политика",
+    "Общество",
+    "Спорт",
+    "Экономика_и_бизнес"
+  ],
+  "residual_checks": {
+    "residual_exact_duplicate_rows": 0,
+    "very_short_model_inputs_remaining": 1
+  }
+}

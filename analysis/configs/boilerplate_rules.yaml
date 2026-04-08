@@ -1,13 +1,15 @@
-﻿# Boilerplate stripping rules for reproducible rebuilds.
+﻿# Boilerplate stripping rules for the final rebuild pipeline.
 #
-# Example structure:
-# exact_suffixes:
-#   - "Читайте также:"
-# regex_suffixes:
-#   - "Реклама\\..*$"
-# phrases_to_strip:
-#   - "Подписывайтесь на наш канал"
+# Rules are applied iteratively from strongest to weakest.
+# The main known tail is a массовый рекламный блок про ПИК,
+# который начинается с фразы "варианты на разный бюджет выгодные предложения".
 
-exact_suffixes: []
-regex_suffixes: []
-phrases_to_strip: []
+exact_suffixes:
+  - "варианты на разный бюджет выгодные предложения_x000d_ для семей с детьми готовое жилье в 22 кварта-_x000d_ лах москвы и области «серия плюс»: умные_x000d_ планировки и архитектура самые популярные кварта-_x000d_ лы пик в москве и области реклама, пао «пик сз»"
+
+regex_suffixes:
+  - "(?is)варианты на разный бюджет выгодные предложения.*?реклама,\\s*пао\\s*[«\"]пик сз[»\"]\\s*$"
+  - "(?is)_x000d_+"
+
+phrases_to_strip:
+  - "варианты на разный бюджет выгодные предложения"
