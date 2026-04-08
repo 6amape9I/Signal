@@ -35,6 +35,13 @@ BOILERPLATE_CANDIDATES_PATH = REPORTS_DIR / "boilerplate_candidates.csv"
 EMPTY_OR_SHORT_TEXTS_PATH = REPORTS_DIR / "empty_or_short_texts.csv"
 COLUMN_MAPPING_PATH = REPORTS_DIR / "column_mapping.csv"
 
+CLEAN_SUMMARY_PATH = REPORTS_DIR / "clean_summary.md"
+CLEAN_CLASS_DISTRIBUTION_PATH = REPORTS_DIR / "clean_class_distribution.csv"
+CLEAN_DUPLICATES_REMOVED_PATH = REPORTS_DIR / "clean_duplicates_removed.csv"
+CLEAN_EXACT_DUPLICATES_REMOVED_PATH = REPORTS_DIR / "clean_exact_duplicates_removed.csv"
+CLEAN_NEAR_DUPLICATES_REMOVED_PATH = REPORTS_DIR / "clean_near_duplicates_removed.csv"
+CLEAN_QUALITY_REPORT_PATH = REPORTS_DIR / "clean_quality_report.json"
+
 CATEGORY_MERGE_RULES_PATH = CONFIGS_DIR / "category_merge_rules.yaml"
 BOILERPLATE_RULES_PATH = CONFIGS_DIR / "boilerplate_rules.yaml"
 
