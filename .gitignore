@@ -36,3 +36,4 @@ datasets/interim/**/*.tmp
 
 # Keep intentional dataset exports versioned.
 !datasets/exports/
+/datasets/raw/legacy_imports/source_dataset.xlsx
