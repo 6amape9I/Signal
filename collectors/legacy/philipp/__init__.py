@@ -1,0 +1,1 @@
+﻿"""Legacy Vesti/Smotrim collector."""

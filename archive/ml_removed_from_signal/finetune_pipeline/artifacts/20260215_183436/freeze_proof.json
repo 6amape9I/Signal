@@ -1,0 +1,8 @@
+{
+  "freeze_backbone": true,
+  "trainable_params": 200462,
+  "frozen_params": 306939648,
+  "encoder_hash_before": "1858198c6aa1e5338e199c2724ca5b2603ec38941fa403b70dfc5e6dc6c59c5e",
+  "encoder_hash_after": "1858198c6aa1e5338e199c2724ca5b2603ec38941fa403b70dfc5e6dc6c59c5e",
+  "encoder_unchanged": true
+}

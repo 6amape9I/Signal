@@ -1,0 +1,1 @@
+﻿"""Kuban TV collector package."""

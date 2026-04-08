@@ -1,40 +1,48 @@
 ﻿# Repository Guidelines
 
 ## Project Structure & Module Organization
-This repository is a Python-based collection of parsers and dataset preparation scripts.
-- `maya/par-par-par/`: scraping utilities (`get_links.py`, `get_articles.py`) and text outputs.
-- `mishanya/banki_ru/`: Banki.ru parsing pipeline (`mainparse.py`, `newsparser.py`, `to_json.py`).
-- `finetune_pipeline/`: training/inference scaffold plus `data/raw/` and model assets in `base_models/mmBERT-base/`.
-- `vova/` and root-level scripts (`philipp.py`, `philipp.parser.py`): standalone experiments/parsers.
-- `mishanya/data_set/`: JSON splits (`train.json`, `val.json`, `test.json`).
+Signal is a Python repository for data collection and dataset preparation only.
+- `collectors/`: active source collectors such as `kubantv/`, `banki_ru/`, and `legacy/`.
+- `datasets/raw/`: raw source exports, link dumps, spreadsheets, and source files.
+- `datasets/interim/`: cleaned text dumps and intermediate conversion outputs.
+- `datasets/labeled/`: labeled JSON datasets and legacy train/val/test splits.
+- `datasets/exports/`: final bundles prepared for downstream use in `signal_back`.
+- `scripts/`: top-level entry points for running collectors, validation, and export.
+- `docs/`: schema, workflow, and source registry documentation.
+- `archive/`: preserved student work, generated artifacts, and ML material removed from active Signal.
 
-Keep new scripts near the dataset/source they process; store large generated artifacts under a dedicated subfolder, not in repo root.
+Signal does not own model training, model inference, deployment, or frontend work. Those concerns live outside this repository.
+
+Keep large generated dumps out of the repo root. Put them under `datasets/` when they are part of the active data lifecycle, otherwise preserve them in `archive/generated/`.
 
 ## Build, Test, and Development Commands
-No central build system is configured. Use a virtual environment and run scripts directly.
+Use a virtual environment and run scripts directly.
 - `python -m venv .venv` then `.\.venv\Scripts\Activate.ps1`: create/activate env (Windows PowerShell).
-- `pip install requests beautifulsoup4`: install currently used parser dependencies.
-- `python maya/par-par-par/get_links.py`: collect article links.
-- `python maya/par-par-par/get_articles.py`: fetch and save article texts.
-- `python mishanya/banki_ru/mainparse.py`: collect Banki.ru news URLs.
-- `python mishanya/banki_ru/newsparser.py`: parse article text into `statyi.txt`.
+- `pip install -e .[dev]`: install parser dependencies and test tooling.
+- `python scripts/run_kubantv.py`: collect Kuban TV links and article texts.
+- `python scripts/run_banki_ru.py`: collect Banki.ru links and article texts.
+- `python scripts/validate_dataset.py`: validate labeled dataset structure.
+- `python scripts/export_dataset.py`: build an export bundle for `signal_back`.
 
 ## Coding Style & Naming Conventions
-- Follow PEP 8: 4-space indentation, snake_case for functions/variables, lowercase module names.
-- Prefer one import per line (`import requests` / `import re`) for readability.
-- Use UTF-8 when reading/writing Russian text content.
-- Avoid hardcoded relative paths that depend on current working directory; use repo-relative paths consistently.
+- Follow PEP 8 with 4-space indentation and snake_case names.
+- Use UTF-8 for Russian text and JSON files.
+- Use `pathlib` and repo-relative paths; active code must not depend on the current working directory.
+- Keep active collectors small and focused. Historical variants belong in `archive/`.
 
 ## Testing Guidelines
-Automated tests are not present yet. For new logic, add `pytest` tests under `tests/` using `test_*.py` naming.
-For parser changes, include a quick smoke check: run target script and verify output file is created and non-empty.
+Automated tests are minimal. For new logic, add `pytest` tests under `tests/` using `test_*.py`.
+For collector changes, run a smoke check and verify that outputs are created in the expected `datasets/` directory and are non-empty.
+For dataset tooling, run `python scripts/validate_dataset.py` before finalizing changes.
 
 ## Commit & Pull Request Guidelines
-Recent history uses short, imperative commit subjects (often in Russian), e.g., `Update par par.py`, `Delete pyrser.py`.
-- Keep commit subjects concise and action-oriented (`Add`, `Fix`, `Refactor`, `Update`).
-- In PRs, include: purpose, changed paths, sample output (or screenshots for HTML), and any data files touched.
-- Link related issues/tasks and call out breaking path or format changes explicitly.
+Use short, imperative commit subjects such as `Refactor Kuban TV collector`.
+- Summarize the purpose and the main directories touched.
+- Mention any dataset moves, archive moves, or export format changes.
+- Include a sample command and resulting output path when changing collector behavior.
 
 ## Data & Security Notes
 - Do not commit secrets, cookies, or API keys.
-- Large raw dumps (`.txt`, `.db`, model binaries) should be reviewed before commit; prefer reproducible generation steps when possible.
+- Do not place large dumps in the repo root.
+- Review large `.txt`, `.json`, `.db`, and `.xlsx` files before commit.
+- Keep `datasets/exports/` versioned only when the export bundle is intentional and reproducible.

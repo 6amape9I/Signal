@@ -1,0 +1,1 @@
+﻿"""Banki.ru collector package."""
