@@ -1,0 +1,263 @@
+{
+  "row_count": 45097,
+  "column_count": 13,
+  "columns": [
+    "unnamed_0",
+    "project",
+    "project_nick",
+    "type",
+    "category_teacher",
+    "title",
+    "body",
+    "publish_date",
+    "publish_date_t",
+    "fronturl",
+    "picture",
+    "badge",
+    "text"
+  ],
+  "column_mapping": {
+    "Unnamed: 0": "unnamed_0",
+    "project": "project",
+    "project_nick": "project_nick",
+    "type": "type",
+    "category- учитель": "category_teacher",
+    "title": "title",
+    "body": "body",
+    "publish_date": "publish_date",
+    "publish_date_t": "publish_date_t",
+    "fronturl": "fronturl",
+    "picture": "picture",
+    "badge": "badge",
+    "text": "text"
+  },
+  "dtypes": {
+    "unnamed_0": {
+      "original_name": "Unnamed: 0",
+      "pandas_dtype": "int64",
+      "python_types": [
+        "int"
+      ]
+    },
+    "project": {
+      "original_name": "project",
+      "pandas_dtype": "str",
+      "python_types": [
+        "str"
+      ]
+    },
+    "project_nick": {
+      "original_name": "project_nick",
+      "pandas_dtype": "str",
+      "python_types": [
+        "str"
+      ]
+    },
+    "type": {
+      "original_name": "type",
+      "pandas_dtype": "str",
+      "python_types": [
+        "str"
+      ]
+    },
+    "category_teacher": {
+      "original_name": "category- учитель",
+      "pandas_dtype": "str",
+      "python_types": [
+        "str"
+      ]
+    },
+    "title": {
+      "original_name": "title",
+      "pandas_dtype": "str",
+      "python_types": [
+        "str"
+      ]
+    },
+    "body": {
+      "original_name": "body",
+      "pandas_dtype": "str",
+      "python_types": [
+        "str"
+      ]
+    },
+    "publish_date": {
+      "original_name": "publish_date",
+      "pandas_dtype": "str",
+      "python_types": [
+        "str"
+      ]
+    },
+    "publish_date_t": {
+      "original_name": "publish_date_t",
+      "pandas_dtype": "int64",
+      "python_types": [
+        "int"
+      ]
+    },
+    "fronturl": {
+      "original_name": "fronturl",
+      "pandas_dtype": "str",
+      "python_types": [
+        "str"
+      ]
+    },
+    "picture": {
+      "original_name": "picture",
+      "pandas_dtype": "str",
+      "python_types": [
+        "str"
+      ]
+    },
+    "badge": {
+      "original_name": "badge",
+      "pandas_dtype": "str",
+      "python_types": [
+        "str"
+      ]
+    },
+    "text": {
+      "original_name": "text",
+      "pandas_dtype": "str",
+      "python_types": [
+        "str"
+      ]
+    }
+  },
+  "missing": [
+    {
+      "original_name": "Unnamed: 0",
+      "normalized_name": "unnamed_0",
+      "missing_count": 0,
+      "missing_ratio": 0.0,
+      "non_null_count": 45097,
+      "pandas_dtype": "int64",
+      "python_types": "int"
+    },
+    {
+      "original_name": "project",
+      "normalized_name": "project",
+      "missing_count": 0,
+      "missing_ratio": 0.0,
+      "non_null_count": 45097,
+      "pandas_dtype": "str",
+      "python_types": "str"
+    },
+    {
+      "original_name": "project_nick",
+      "normalized_name": "project_nick",
+      "missing_count": 0,
+      "missing_ratio": 0.0,
+      "non_null_count": 45097,
+      "pandas_dtype": "str",
+      "python_types": "str"
+    },
+    {
+      "original_name": "type",
+      "normalized_name": "type",
+      "missing_count": 0,
+      "missing_ratio": 0.0,
+      "non_null_count": 45097,
+      "pandas_dtype": "str",
+      "python_types": "str"
+    },
+    {
+      "original_name": "category- учитель",
+      "normalized_name": "category_teacher",
+      "missing_count": 25,
+      "missing_ratio": 0.0005543606004834024,
+      "non_null_count": 45072,
+      "pandas_dtype": "str",
+      "python_types": "str"
+    },
+    {
+      "original_name": "title",
+      "normalized_name": "title",
+      "missing_count": 0,
+      "missing_ratio": 0.0,
+      "non_null_count": 45097,
+      "pandas_dtype": "str",
+      "python_types": "str"
+    },
+    {
+      "original_name": "body",
+      "normalized_name": "body",
+      "missing_count": 20056,
+      "missing_ratio": 0.4447302481318048,
+      "non_null_count": 25041,
+      "pandas_dtype": "str",
+      "python_types": "str"
+    },
+    {
+      "original_name": "publish_date",
+      "normalized_name": "publish_date",
+      "missing_count": 0,
+      "missing_ratio": 0.0,
+      "non_null_count": 45097,
+      "pandas_dtype": "str",
+      "python_types": "str"
+    },
+    {
+      "original_name": "publish_date_t",
+      "normalized_name": "publish_date_t",
+      "missing_count": 0,
+      "missing_ratio": 0.0,
+      "non_null_count": 45097,
+      "pandas_dtype": "int64",
+      "python_types": "int"
+    },
+    {
+      "original_name": "fronturl",
+      "normalized_name": "fronturl",
+      "missing_count": 0,
+      "missing_ratio": 0.0,
+      "non_null_count": 45097,
+      "pandas_dtype": "str",
+      "python_types": "str"
+    },
+    {
+      "original_name": "picture",
+      "normalized_name": "picture",
+      "missing_count": 3161,
+      "missing_ratio": 0.0700933543251214,
+      "non_null_count": 41936,
+      "pandas_dtype": "str",
+      "python_types": "str"
+    },
+    {
+      "original_name": "badge",
+      "normalized_name": "badge",
+      "missing_count": 45081,
+      "missing_ratio": 0.9996452092156907,
+      "non_null_count": 16,
+      "pandas_dtype": "str",
+      "python_types": "str"
+    },
+    {
+      "original_name": "text",
+      "normalized_name": "text",
+      "missing_count": 0,
+      "missing_ratio": 0.0,
+      "non_null_count": 45097,
+      "pandas_dtype": "str",
+      "python_types": "str"
+    }
+  ],
+  "key_empty_counts": {
+    "title": 0,
+    "body": 20056,
+    "text": 18,
+    "category_teacher": 25,
+    "fronturl": 0
+  },
+  "row_checks": {
+    "title_too_short": 0,
+    "text_too_short": 18,
+    "body_empty_text_present": 20056,
+    "text_empty_body_present": 18
+  },
+  "thresholds": {
+    "title_min_chars": 8,
+    "text_min_chars": 50
+  }
+}

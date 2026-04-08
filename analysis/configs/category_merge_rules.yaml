@@ -1,0 +1,16 @@
+﻿# Category merge rules for manual review decisions.
+#
+# Example structure:
+# merge_rules:
+#   - canonical_label: "Финансы и банки"
+#     aliases:
+#       - "Банки"
+#       - "Финансы"
+# drop_labels:
+#   - "Служебная категория"
+# keep_separate:
+#   - "Экономика и бизнес"
+
+merge_rules: []
+drop_labels: []
+keep_separate: []

@@ -1,0 +1,64 @@
+{
+  "title": {
+    "chars": {
+      "count": 45097,
+      "min": 13.0,
+      "max": 73.0,
+      "mean": 62.30055214315808,
+      "median": 65.0,
+      "p95": 73.0
+    },
+    "words": {
+      "count": 45097,
+      "min": 2.0,
+      "max": 16.0,
+      "mean": 9.093066057609153,
+      "median": 9.0,
+      "p95": 12.0
+    }
+  },
+  "body": {
+    "chars": {
+      "count": 45097,
+      "min": 0.0,
+      "max": 297.0,
+      "mean": 104.70197574118012,
+      "median": 127.0,
+      "p95": 228.0
+    },
+    "words": {
+      "count": 45097,
+      "min": 0.0,
+      "max": 51.0,
+      "mean": 14.944275672439408,
+      "median": 18.0,
+      "p95": 34.0
+    }
+  },
+  "text": {
+    "chars": {
+      "count": 45097,
+      "min": 0.0,
+      "max": 32765.0,
+      "mean": 2101.0786748564205,
+      "median": 1680.0,
+      "p95": 4730.399999999994
+    },
+    "words": {
+      "count": 45097,
+      "min": 0.0,
+      "max": 4890.0,
+      "mean": 295.7151030001996,
+      "median": 237.0,
+      "p95": 659.0
+    }
+  },
+  "issue_counts": {
+    "short_titles": 1,
+    "short_texts": 18,
+    "long_texts": 36,
+    "text_matches_body": 0,
+    "probable_boilerplate": 44200,
+    "spacing_artifacts": 45081
+  }
+}

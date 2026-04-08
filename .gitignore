@@ -8,6 +8,7 @@ __pycache__/
 
 .idea/
 .DS_Store
+.ipynb_checkpoints/
 
 .pytest_cache/
 .mypy_cache/
@@ -30,10 +31,11 @@ dist/
 /*.sqlite3
 /*.xlsx
 
+/datasets/raw/raw_dataset.xlsx
+#/analysis/reports/*
+!/analysis/reports/.gitkeep
+
 datasets/raw/**/tmp_*
 datasets/interim/**/tmp_*
 datasets/interim/**/*.tmp
-
-# Keep intentional dataset exports versioned.
-!datasets/exports/
-/datasets/raw/legacy_imports/source_dataset.xlsx
+/analysis/reports/manual_review.xlsx

@@ -1,0 +1,13 @@
+﻿# Boilerplate stripping rules for reproducible rebuilds.
+#
+# Example structure:
+# exact_suffixes:
+#   - "Читайте также:"
+# regex_suffixes:
+#   - "Реклама\\..*$"
+# phrases_to_strip:
+#   - "Подписывайтесь на наш канал"
+
+exact_suffixes: []
+regex_suffixes: []
+phrases_to_strip: []

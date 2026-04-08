@@ -1,0 +1,791 @@
+duplicate_type,group_id,record_id,title,fronturl,category_teacher,group_size
+title_text_exact,1,38497,Антонов предупредил США о последствиях ядерной войны,https://www.rbc.ru/politics/14/09/2024/66e4d1a69a794714a2dc3327,Политика,2
+title_text_exact,1,38498,Антонов предупредил США о последствиях ядерной войны,https://www.rbc.ru/rbcfreenews/66e4d1a69a794714a2dc3327,Политика,2
+title_text_exact,2,174,"В Аргентине задержали россиянку, подозреваемую в мошенничестве на $2 млн",https://www.rbc.ru/politics/03/01/2024/6594e46f9a794741e1eaa9b1,Политика,2
+title_text_exact,2,175,"В Аргентине задержали россиянку, подозреваемую в мошенничестве на $2 млн",https://www.rbc.ru/rbcfreenews/6594e46f9a794741e1eaa9b1,Политика,2
+title_text_exact,3,1426,В конгрессе США согласовали временное финансирование правительства,https://www.rbc.ru/rbcfreenews/65a4ccdb9a794765d1b6fd81,Политика,2
+title_text_exact,3,1427,В конгрессе США согласовали временное финансирование правительства,https://www.rbc.ru/politics/15/01/2024/65a4ccdb9a794765d1b6fd81,Политика,2
+title_text_exact,4,37216,Мутко для РБК,https://www.rbc.ru/?video_id=66d9af089a7947789518ebb7,,2
+title_text_exact,4,37217,Мутко для РБК,https://www.rbc.ru/?video_id=66d9af049a79471c43e1ee7e,,2
+title_text_exact,5,36989,Путин предложил провести встречу с Си Цзиньпином на саммите БРИКС-2024,https://www.rbc.ru/politics/04/09/2024/66d818989a79475f96509aca,Политика,2
+title_text_exact,5,36990,Путин предложил провести встречу с Си Цзиньпином на саммите БРИКС-2024,https://www.rbc.ru/rbcfreenews/66d818989a79475f96509aca,Политика,2
+title_text_exact,6,36993,Путин призвал обеспечить жильем морских пехотинцев,https://www.rbc.ru/politics/04/09/2024/66d8227f9a7947f072bd379e,Политика,2
+title_text_exact,6,36994,Путин призвал обеспечить жильем морских пехотинцев,https://www.rbc.ru/rbcfreenews/66d8227f9a7947f072bd379e,Политика,2
+title_text_exact,7,38493,Фигурант дела об аварии в котельной в Подольске частично признал вину,https://www.rbc.ru/society/14/09/2024/66e4c94a9a794703d7691eb2,Общество,2
+title_text_exact,7,38494,Фигурант дела об аварии в котельной в Подольске частично признал вину,https://www.rbc.ru/rbcfreenews/66e4c94a9a794703d7691eb2,Общество,2
+normalized_title,8,38497,Антонов предупредил США о последствиях ядерной войны,https://www.rbc.ru/politics/14/09/2024/66e4d1a69a794714a2dc3327,Политика,2
+normalized_title,8,38498,Антонов предупредил США о последствиях ядерной войны,https://www.rbc.ru/rbcfreenews/66e4d1a69a794714a2dc3327,Политика,2
+normalized_title,9,6915,Армения и Азербайджан обвинили друг друга в обстрелах,https://www.rbc.ru/rbcfreenews/65d9fbd79a79475624e4344c,Политика,2
+normalized_title,9,13109,Армения и Азербайджан обвинили друг друга в обстрелах,https://www.rbc.ru/rbcfreenews/661026119a794712375b82a9,Политика,2
+normalized_title,10,743,Богомаз сообщил о сбитом над Брянской областью беспилотнике,https://www.rbc.ru/rbcfreenews/659d55c59a794779d482dd57,Политика,3
+normalized_title,10,31706,Богомаз сообщил о сбитом над Брянской областью беспилотнике,https://www.rbc.ru/rbcfreenews/66a9d8539a7947e725203c32,Политика,3
+normalized_title,10,42009,Богомаз сообщил о сбитом над Брянской областью беспилотнике,https://www.rbc.ru/rbcfreenews/6702e7249a79476ff8ef24e7,Политика,3
+normalized_title,11,11041,Богомаз сообщил об уничтожении дрона над Брянской областью,https://www.rbc.ru/rbcfreenews/65fe3ce19a7947916ae46c25,Политика,2
+normalized_title,11,40841,Богомаз сообщил об уничтожении дрона над Брянской областью,https://www.rbc.ru/rbcfreenews/66f86f839a7947c1a6290772,Политика,2
+normalized_title,12,4336,Британские ВМС сообщили об атаке на судно у берегов Йемена,https://www.rbc.ru/rbcfreenews/65c1b6f69a794701318b9541,Политика,2
+normalized_title,12,23401,Британские ВМС сообщили об атаке на судно у берегов Йемена,https://www.rbc.ru/rbcfreenews/6664f2ae9a794775ba2f385d,Политика,2
+normalized_title,13,174,"В Аргентине задержали россиянку, подозреваемую в мошенничестве на $2 млн",https://www.rbc.ru/politics/03/01/2024/6594e46f9a794741e1eaa9b1,Политика,2
+normalized_title,13,175,"В Аргентине задержали россиянку, подозреваемую в мошенничестве на $2 млн",https://www.rbc.ru/rbcfreenews/6594e46f9a794741e1eaa9b1,Политика,2
+normalized_title,14,42884,В аэропорту Казани временно ограничили полеты,https://www.rbc.ru/society/12/10/2024/670a14ed9a794743b6942b84,Общество,2
+normalized_title,14,44133,В аэропорту Казани временно ограничили полеты,https://www.rbc.ru/society/20/10/2024/67149d1b9a794713eb392117,Общество,2
+normalized_title,15,9821,В Белгороде в четвертый раз за день объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/65f456869a79474e30a06e15,Политика,2
+normalized_title,15,32271,В Белгороде в четвертый раз за день объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66ae04bf9a7947e6be319a35,Политика,2
+normalized_title,16,4716,В Белгороде второй раз за день объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/65c4e6129a7947f1e455abc9,Политика,4
+normalized_title,16,11176,В Белгороде второй раз за день объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/65ff32af9a7947e14ee6cc61,Политика,4
+normalized_title,16,13351,В Белгороде второй раз за день объявили ракетную опасность,https://www.rbc.ru/politics/07/04/2024/6612a69d9a7947764f50e2d7,Политика,4
+normalized_title,16,17612,В Белгороде второй раз за день объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66367c549a7947ed05d413dd,Политика,4
+normalized_title,17,18086,В Белгороде второй раз за ночь объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/663abcca9a79472c59463405,Политика,4
+normalized_title,17,18281,В Белгороде второй раз за ночь объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/663c16139a7947e13fc33521,Политика,4
+normalized_title,17,19173,В Белгороде второй раз за ночь объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66440f6e9a79473fa42696f2,Политика,4
+normalized_title,17,22277,В Белгороде второй раз за ночь объявили ракетную опасность,https://www.rbc.ru/politics/03/06/2024/665d0ae89a79476dd76d413e,Политика,4
+normalized_title,18,3062,В Белгороде запустили сирену ракетной опасности,https://www.rbc.ru/rbcfreenews/65b539bc9a79479b4548c316,Политика,3
+normalized_title,18,9732,В Белгороде запустили сирену ракетной опасности,https://www.rbc.ru/rbcfreenews/65f3d9f59a794702d178b568,Политика,3
+normalized_title,18,20189,В Белгороде запустили сирену ракетной опасности,https://www.rbc.ru/rbcfreenews/664c1d049a794720a3230a19,Политика,3
+normalized_title,19,11737,В Белгороде и Белгородском районе включили сирены ракетной опасности,https://www.rbc.ru/rbcfreenews/660457ae9a7947578babc3a5,Политика,2
+normalized_title,19,11923,В Белгороде и Белгородском районе включили сирены ракетной опасности,https://www.rbc.ru/rbcfreenews/660602309a7947f6000ffc50,Политика,2
+normalized_title,20,15054,В Белгороде и Белгородском районе запустили сирену ракетной опасности,https://www.rbc.ru/rbcfreenews/66202a8e9a7947845c58d9d2,Политика,2
+normalized_title,20,19513,В Белгороде и Белгородском районе запустили сирену ракетной опасности,https://www.rbc.ru/rbcfreenews/66467d2a9a79477bfee7eb0e,Политика,2
+normalized_title,21,11045,В Белгороде и Белгородском районе объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/65fe54aa9a7947dd0ecf9d94,Политика,2
+normalized_title,21,19739,В Белгороде и Белгородском районе объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66483a8b9a7947028793972a,Политика,2
+normalized_title,22,9190,В Белгороде и его окрестностях объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/65efc2af9a794765e4c5dc15,Политика,5
+normalized_title,22,9448,В Белгороде и его окрестностях объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/65f1887a9a7947cabfa2ab6f,Политика,5
+normalized_title,22,9568,В Белгороде и его окрестностях объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/65f28acd9a79479875a302e6,Политика,5
+normalized_title,22,10007,В Белгороде и его окрестностях объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/65f67a809a7947c0d3936314,Политика,5
+normalized_title,22,10324,В Белгороде и его окрестностях объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/65f942479a7947aea6004ea7,Политика,5
+normalized_title,23,22635,В Белгороде и Курской области объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/665f89849a79472f3c0880d2,Политика,3
+normalized_title,23,23456,В Белгороде и Курской области объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66658f8f9a79473cc364f058,Политика,3
+normalized_title,23,32258,В Белгороде и Курской области объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66ade7cf9a79475db5d221ba,Политика,3
+normalized_title,24,10142,В Белгороде и окрестностях объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/65f7d2bf9a79471d47fde09d,Политика,24
+normalized_title,24,10518,В Белгороде и окрестностях объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/65faa0b09a7947844e7c6e3a,Политика,24
+normalized_title,24,11476,В Белгороде и окрестностях объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/660215f49a7947538882e6d1,Политика,24
+normalized_title,24,12402,В Белгороде и окрестностях объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/660ab3b89a7947c60d909225,Политика,24
+normalized_title,24,15443,В Белгороде и окрестностях объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/662343b59a7947c5a408a4fc,Политика,24
+normalized_title,24,15749,В Белгороде и окрестностях объявили ракетную опасность,https://www.rbc.ru/politics/22/04/2024/66265acb9a7947173ca2eb6e,Политика,24
+normalized_title,24,16400,В Белгороде и окрестностях объявили ракетную опасность,https://www.rbc.ru/politics/26/04/2024/662ae24b9a79474247410264,Политика,24
+normalized_title,24,18529,В Белгороде и окрестностях объявили ракетную опасность,https://www.rbc.ru/politics/11/05/2024/663e8b3f9a7947baa528b505,Политика,24
+normalized_title,24,18629,В Белгороде и окрестностях объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/663f9b579a7947271d82b332,Политика,24
+normalized_title,24,18665,В Белгороде и окрестностях объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/664015dc9a794710fdb4f405,Политика,24
+normalized_title,24,18986,В Белгороде и окрестностях объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/6642c5d89a794722cb9fa613,Политика,24
+normalized_title,24,19390,В Белгороде и окрестностях объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/6645c1c89a79471aeaefbd09,Политика,24
+normalized_title,24,19718,В Белгороде и окрестностях объявили ракетную опасность,https://www.rbc.ru/politics/18/05/2024/6647d9a79a794743c7b30496,Политика,24
+normalized_title,24,20510,В Белгороде и окрестностях объявили ракетную опасность,https://www.rbc.ru/politics/23/05/2024/664eb04f9a79476df58bf77d,Политика,24
+normalized_title,24,22028,В Белгороде и окрестностях объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/665ae4039a79472117be61c1,Политика,24
+normalized_title,24,22156,В Белгороде и окрестностях объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/665c14a89a7947010fee526f,Политика,24
+normalized_title,24,22403,В Белгороде и окрестностях объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/665de9c59a7947d689be5020,Общество,24
+normalized_title,24,23102,В Белгороде и окрестностях объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/6662a6f99a79472198912c70,Политика,24
+normalized_title,24,23294,В Белгороде и окрестностях объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/6663e01e9a7947d5947b6fcb,Политика,24
+normalized_title,24,24428,В Белгороде и окрестностях объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/666de0cd9a7947234ef50edc,Политика,24
+normalized_title,24,24969,В Белгороде и окрестностях объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/6672909f9a7947adefe20306,Политика,24
+normalized_title,24,26052,В Белгороде и окрестностях объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/667b546a9a79475841ae75d1,Политика,24
+normalized_title,24,26274,В Белгороде и окрестностях объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/667d1ba29a794765e3183895,Политика,24
+normalized_title,24,28544,В Белгороде и окрестностях объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/668fbbf09a79473acfe4fe08,Политика,24
+normalized_title,25,5395,В Белгороде и районе объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/65cbde7a9a794763c51f8cad,Политика,3
+normalized_title,25,8922,В Белгороде и районе объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/65ed48dc9a794744bd21b03f,Политика,3
+normalized_title,25,11605,В Белгороде и районе объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/660336199a7947d2284d7db4,Политика,3
+normalized_title,26,18797,В Белгороде и Шебекино объявили ракетную опасность,https://www.rbc.ru/politics/13/05/2024/66413c299a794759eb3ebffb,Политика,12
+normalized_title,26,20820,В Белгороде и Шебекино объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/6650e0749a79472a89e00bdc,Политика,12
+normalized_title,26,23719,В Белгороде и Шебекино объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/6667e1ce9a7947741c25c0d2,Политика,12
+normalized_title,26,25095,В Белгороде и Шебекино объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/667382819a79474ce9582b81,Политика,12
+normalized_title,26,25428,В Белгороде и Шебекино объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66766e819a7947a9e74b7e8b,Политика,12
+normalized_title,26,26230,В Белгороде и Шебекино объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/667c9a969a79471c1e88b39d,Политика,12
+normalized_title,26,30063,В Белгороде и Шебекино объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/669c62e49a79476b0c8a1f30,Политика,12
+normalized_title,26,31123,В Белгороде и Шебекино объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66a4b1349a7947fff1afb94e,Политика,12
+normalized_title,26,32069,В Белгороде и Шебекино объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66ac70fa9a7947f8d8772019,Политика,12
+normalized_title,26,32617,В Белгороде и Шебекино объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66b141df9a7947f3be441ef1,Политика,12
+normalized_title,26,32993,В Белгороде и Шебекино объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66b3f87f9a7947115890cedc,Политика,12
+normalized_title,26,36942,В Белгороде и Шебекино объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66d7ba569a79475f0ecd0bd5,Политика,12
+normalized_title,27,2598,В Белгороде объявили о ракетной опасности,https://www.rbc.ru/rbcfreenews/65b0c7999a7947019b16ec48,Политика,2
+normalized_title,27,7993,В Белгороде объявили о ракетной опасности,https://www.rbc.ru/politics/03/03/2024/65e43e909a7947cae49a7a7b,Политика,2
+normalized_title,28,1823,В Белгороде объявили ракетную опасность,https://www.rbc.ru/politics/18/01/2024/65a8a14e9a79470cab81f650,Политика,28
+normalized_title,28,4549,В Белгороде объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/65c388269a79474566ae7576,Политика,28
+normalized_title,28,4969,В Белгороде объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/65c76be49a79472954d256a3,Политика,28
+normalized_title,28,5619,В Белгороде объявили ракетную опасность,https://www.rbc.ru/politics/15/02/2024/65cdd7e99a794783857272ad,Политика,28
+normalized_title,28,8411,В Белгороде объявили ракетную опасность,https://www.rbc.ru/politics/06/03/2024/65e808999a79478359e5bb62,Политика,28
+normalized_title,28,9591,В Белгороде объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/65f2b9729a79473961bdeaf2,Политика,28
+normalized_title,28,9840,В Белгороде объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/65f476959a79477e634f4e77,Политика,28
+normalized_title,28,12476,В Белгороде объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/660b62c19a79477312472762,Политика,28
+normalized_title,28,13004,В Белгороде объявили ракетную опасность,https://www.rbc.ru/politics/05/04/2024/660fad349a794774d0c2cf22,Политика,28
+normalized_title,28,13158,В Белгороде объявили ракетную опасность,https://www.rbc.ru/politics/06/04/2024/6610b80e9a794756a0a19184,Политика,28
+normalized_title,28,16975,В Белгороде объявили ракетную опасность,https://www.rbc.ru/politics/30/04/2024/66301d559a7947290af46d29,Политика,28
+normalized_title,28,17689,В Белгороде объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/663774d89a79475c684af17a,Политика,28
+normalized_title,28,18078,В Белгороде объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/663a98fa9a79478c6c655c67,Политика,28
+normalized_title,28,18273,В Белгороде объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/663bf5769a7947b8d25f8951,Политика,28
+normalized_title,28,18391,В Белгороде объявили ракетную опасность,https://www.rbc.ru/politics/10/05/2024/663d3f359a79474a05709ad3,Политика,28
+normalized_title,28,18917,В Белгороде объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66421ed99a794775d936c74c,Политика,28
+normalized_title,28,19021,В Белгороде объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/664311839a79472a16ad8ca1,Политика,28
+normalized_title,28,19162,В Белгороде объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/6643df0a9a79474f9a443136,Политика,28
+normalized_title,28,19747,В Белгороде объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/664857669a794757a81f4456,Политика,28
+normalized_title,28,20355,В Белгороде объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/664d87ce9a794744fce6076d,Политика,28
+normalized_title,28,21436,В Белгороде объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/665630509a79477d65721de6,Политика,28
+normalized_title,28,22005,В Белгороде объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/665aae809a79476c1075a5d3,Политика,28
+normalized_title,28,22062,В Белгороде объявили ракетную опасность,https://www.rbc.ru/politics/01/06/2024/665b266c9a79473af88e709b,Политика,28
+normalized_title,28,22257,В Белгороде объявили ракетную опасность,https://www.rbc.ru/politics/02/06/2024/665cdac69a7947988f580efa,Политика,28
+normalized_title,28,23423,В Белгороде объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/666551a39a7947eab562cb15,Политика,28
+normalized_title,28,23715,В Белгороде объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/6667d9b09a7947774ffbac95,Политика,28
+normalized_title,28,26628,В Белгороде объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/667fd3199a79471789cf8c3e,Политика,28
+normalized_title,28,26734,В Белгороде объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/668106499a7947304df42cbf,Политика,28
+normalized_title,29,19104,В Белгороде объявлена ракетная опасность,https://www.rbc.ru/rbcfreenews/6643696d9a794787f03ea7ca,Политика,2
+normalized_title,29,19115,В Белгороде объявлена ракетная опасность,https://www.rbc.ru/rbcfreenews/664379a19a79477232dc9b08,Политика,2
+normalized_title,30,19766,В Белгороде прогремели взрывы,https://www.rbc.ru/politics/18/05/2024/6648762e9a7947ed8650ac6d,Политика,3
+normalized_title,30,25682,В Белгороде прогремели взрывы,https://www.rbc.ru/rbcfreenews/6678a07b9a79474209bc4f8a,Политика,3
+normalized_title,30,36373,В Белгороде прогремели взрывы,https://www.rbc.ru/politics/30/08/2024/66d1ff6b9a7947855c6d5d54,Политика,3
+normalized_title,31,12953,В Белгородской и Курской областях объявили опасность атаки дронов,https://www.rbc.ru/rbcfreenews/660f160a9a794764e2e604f6,Политика,2
+normalized_title,31,29754,В Белгородской и Курской областях объявили опасность атаки дронов,https://www.rbc.ru/rbcfreenews/66998df09a794713bbc0b4e2,Политика,2
+normalized_title,32,28974,В Белгородской и Курской областях объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66935f5b9a794750c2e0f30d,Политика,4
+normalized_title,32,32306,В Белгородской и Курской областях объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66ae5a6f9a794753a400dc43,Политика,4
+normalized_title,32,35784,В Белгородской и Курской областях объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66cd12969a79473bcef48b87,Политика,4
+normalized_title,32,38752,В Белгородской и Курской областях объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66e7a6f29a79474764d884c6,Политика,4
+normalized_title,33,32229,В Белгородской области объявили опасность атаки беспилотников,https://www.rbc.ru/rbcfreenews/66ad80ed9a7947e2e2e422a6,Политика,2
+normalized_title,33,33008,В Белгородской области объявили опасность атаки беспилотников,https://www.rbc.ru/rbcfreenews/66b424209a7947147e9fee9c,Политика,2
+normalized_title,34,20688,В Белгородской области объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66500ef39a79470a2c374d3d,Политика,7
+normalized_title,34,21405,В Белгородской области объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/665605129a7947254c944b57,Политика,7
+normalized_title,34,23344,В Белгородской области объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/666454a09a794740122ce546,Политика,7
+normalized_title,34,26253,В Белгородской области объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/667cf7979a794724b73b7b63,Политика,7
+normalized_title,34,32058,В Белгородской области объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66ac579a9a7947209c3acc4d,Политика,7
+normalized_title,34,32477,В Белгородской области объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66b0384f9a7947effed8fc9c,Политика,7
+normalized_title,34,33487,В Белгородской области объявили ракетную опасность,https://www.rbc.ru/politics/11/08/2024/66b803ec9a79476919db4e63,Политика,7
+normalized_title,35,3948,В Белгородской области сбили беспилотник,https://www.rbc.ru/rbcfreenews/65bd9c259a79475273e0ede2,Политика,2
+normalized_title,35,17965,В Белгородской области сбили беспилотник,https://www.rbc.ru/rbcfreenews/6639ed869a794761b5ebd6a4,Политика,2
+normalized_title,36,7126,В Белгородской области сбили украинский беспилотник,https://www.rbc.ru/rbcfreenews/65dc563b9a7947b6e8732f74,Политика,3
+normalized_title,36,12271,В Белгородской области сбили украинский беспилотник,https://www.rbc.ru/rbcfreenews/66097e169a7947a1e69ab441,Политика,3
+normalized_title,36,35175,В Белгородской области сбили украинский беспилотник,https://www.rbc.ru/rbcfreenews/66c74b409a79473a2ca02d9c,Политика,3
+normalized_title,37,11996,В Белгородской области силы ПВО сбили беспилотник,https://www.rbc.ru/rbcfreenews/6606af879a7947b07a27ade9,Политика,5
+normalized_title,37,17294,В Белгородской области силы ПВО сбили беспилотник,https://www.rbc.ru/rbcfreenews/663396829a79477c05b98f39,Политика,5
+normalized_title,37,18180,В Белгородской области силы ПВО сбили беспилотник,https://www.rbc.ru/rbcfreenews/663b6b619a7947587e56702d,Политика,5
+normalized_title,37,24230,В Белгородской области силы ПВО сбили беспилотник,https://www.rbc.ru/rbcfreenews/666c22b59a794725beb6bf5e,Политика,5
+normalized_title,37,30671,В Белгородской области силы ПВО сбили беспилотник,https://www.rbc.ru/rbcfreenews/66a12b589a79474c81e42eba,Политика,5
+normalized_title,38,22748,В Белгородской области силы ПВО сбили украинский беспилотник,https://www.rbc.ru/rbcfreenews/66605eb59a794736f18681b8,Политика,2
+normalized_title,38,28554,В Белгородской области силы ПВО сбили украинский беспилотник,https://www.rbc.ru/rbcfreenews/668fcd4d9a79478b2dda3d52,Политика,2
+normalized_title,39,6828,В Брянской области сбили беспилотник,https://www.rbc.ru/rbcfreenews/65d8fbde9a79474ab9cc6bab,Политика,3
+normalized_title,39,23416,В Брянской области сбили беспилотник,https://www.rbc.ru/rbcfreenews/666536af9a794727c2acf8e3,Политика,3
+normalized_title,39,31321,В Брянской области сбили беспилотник,https://www.rbc.ru/rbcfreenews/66a6ad169a7947247e808c6c,Политика,3
+normalized_title,40,7243,В Брянской области сбили два украинских беспилотника,https://www.rbc.ru/rbcfreenews/65dd58189a7947b0ee3ad26e,Политика,2
+normalized_title,40,21022,В Брянской области сбили два украинских беспилотника,https://www.rbc.ru/rbcfreenews/6653249a9a7947408b88c07f,Политика,2
+normalized_title,41,521,В Брянской области сбили украинский беспилотник,https://www.rbc.ru/rbcfreenews/659a8dda9a79474d974fd1e3,Политика,6
+normalized_title,41,1956,В Брянской области сбили украинский беспилотник,https://www.rbc.ru/rbcfreenews/65aa01529a794717a2ed83d3,Политика,6
+normalized_title,41,10743,В Брянской области сбили украинский беспилотник,https://www.rbc.ru/rbcfreenews/65fc359d9a79472d52a0df8f,Политика,6
+normalized_title,41,13930,В Брянской области сбили украинский беспилотник,https://www.rbc.ru/rbcfreenews/661701c59a794792e0fed184,Политика,6
+normalized_title,41,38166,В Брянской области сбили украинский беспилотник,https://www.rbc.ru/rbcfreenews/66e20e299a79472e772b914f,Политика,6
+normalized_title,41,44220,В Брянской области сбили украинский беспилотник,https://www.rbc.ru/rbcfreenews/671595089a794711633eb734,Политика,6
+normalized_title,42,23293,В Брянской области уничтожили беспилотник,https://www.rbc.ru/rbcfreenews/6663d1c39a794765984d16d6,Политика,2
+normalized_title,42,25105,В Брянской области уничтожили беспилотник,https://www.rbc.ru/politics/20/06/2024/6673a1419a7947b5aeaa8eeb,Политика,2
+normalized_title,43,17192,В Брянской области уничтожили украинский беспилотник,https://www.rbc.ru/rbcfreenews/6632a60a9a7947235467a633,Политика,2
+normalized_title,43,40375,В Брянской области уничтожили украинский беспилотник,https://www.rbc.ru/rbcfreenews/66f4d8a39a7947bf34a09c93,Политика,2
+normalized_title,44,9694,В Воронежской области ввели режим опасности атаки дронов,https://www.rbc.ru/rbcfreenews/65f349539a79475fc059fa1e,Политика,3
+normalized_title,44,9870,В Воронежской области ввели режим опасности атаки дронов,https://www.rbc.ru/rbcfreenews/65f4b7099a7947d0c45b122d,Политика,3
+normalized_title,44,18660,В Воронежской области ввели режим опасности атаки дронов,https://www.rbc.ru/rbcfreenews/663ff81a9a7947b005db6e38,Политика,3
+normalized_title,45,23207,В Воронежской области объявили авиационную опасность,https://www.rbc.ru/rbcfreenews/666311819a7947963e700cf6,Политика,3
+normalized_title,45,24089,В Воронежской области объявили авиационную опасность,https://www.rbc.ru/rbcfreenews/666af1f39a7947e6b8974e55,Политика,3
+normalized_title,45,39264,В Воронежской области объявили авиационную опасность,https://www.rbc.ru/rbcfreenews/66eb68719a794743a4fde00e,Политика,3
+normalized_title,46,13349,В Воронежской области объявили об угрозе атаки дронов,https://www.rbc.ru/rbcfreenews/6612a2ba9a79471894d2f2c7,Политика,2
+normalized_title,46,28619,В Воронежской области объявили об угрозе атаки дронов,https://www.rbc.ru/rbcfreenews/66903ae29a794722e9ec1e91,Политика,2
+normalized_title,47,12934,В Воронежской области объявили опасность атаки беспилотников,https://www.rbc.ru/rbcfreenews/660ef3a79a7947ec0f953afe,Политика,8
+normalized_title,47,13983,В Воронежской области объявили опасность атаки беспилотников,https://www.rbc.ru/rbcfreenews/6617982a9a79472e34662fa8,Политика,8
+normalized_title,47,17361,В Воронежской области объявили опасность атаки беспилотников,https://www.rbc.ru/rbcfreenews/663432539a79471d92e4fa0d,Политика,8
+normalized_title,47,19720,В Воронежской области объявили опасность атаки беспилотников,https://www.rbc.ru/rbcfreenews/6647e5249a7947157ba68d54,Политика,8
+normalized_title,47,22118,В Воронежской области объявили опасность атаки беспилотников,https://www.rbc.ru/rbcfreenews/665b9a579a7947611af18de5,Политика,8
+normalized_title,47,24556,В Воронежской области объявили опасность атаки беспилотников,https://www.rbc.ru/rbcfreenews/666f666a9a79472b59359524,Политика,8
+normalized_title,47,30541,В Воронежской области объявили опасность атаки беспилотников,https://www.rbc.ru/rbcfreenews/66a05eab9a79477d0736f602,Политика,8
+normalized_title,47,40836,В Воронежской области объявили опасность атаки беспилотников,https://www.rbc.ru/rbcfreenews/66f853189a7947f1f61181b8,Политика,8
+normalized_title,48,8569,В Воронежской области объявили опасность атаки дронов,https://www.rbc.ru/rbcfreenews/65e927a39a79472213ba2d70,Политика,13
+normalized_title,48,9367,В Воронежской области объявили опасность атаки дронов,https://www.rbc.ru/politics/13/03/2024/65f0e3619a7947d5810ed13c,Политика,13
+normalized_title,48,12955,В Воронежской области объявили опасность атаки дронов,https://www.rbc.ru/rbcfreenews/660f1efc9a7947eb5df144cb,Политика,13
+normalized_title,48,14627,В Воронежской области объявили опасность атаки дронов,https://www.rbc.ru/rbcfreenews/661cf2159a79476ba60ff841,Политика,13
+normalized_title,48,17095,В Воронежской области объявили опасность атаки дронов,https://www.rbc.ru/rbcfreenews/66317c459a79477fb232adca,Политика,13
+normalized_title,48,17736,В Воронежской области объявили опасность атаки дронов,https://www.rbc.ru/rbcfreenews/6637fc039a79475c9c069f3e,Политика,13
+normalized_title,48,26402,В Воронежской области объявили опасность атаки дронов,https://www.rbc.ru/rbcfreenews/667dde2e9a7947c31e574b24,Политика,13
+normalized_title,48,32050,В Воронежской области объявили опасность атаки дронов,https://www.rbc.ru/rbcfreenews/66ac30a39a7947d9fe92cdfd,Политика,13
+normalized_title,48,32820,В Воронежской области объявили опасность атаки дронов,https://www.rbc.ru/rbcfreenews/66b2c6c99a7947a7e7d90e11,Политика,13
+normalized_title,48,33001,В Воронежской области объявили опасность атаки дронов,https://www.rbc.ru/rbcfreenews/66b40f219a7947182277a240,Политика,13
+normalized_title,48,33776,В Воронежской области объявили опасность атаки дронов,https://www.rbc.ru/rbcfreenews/66ba99ba9a79478432150960,Политика,13
+normalized_title,48,35385,В Воронежской области объявили опасность атаки дронов,https://www.rbc.ru/rbcfreenews/66c909d99a794712def454be,Политика,13
+normalized_title,48,37427,В Воронежской области объявили опасность атаки дронов,https://www.rbc.ru/rbcfreenews/66db89b39a79475298a949b2,Политика,13
+normalized_title,49,9221,В Воронежской области объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/65f00ca09a7947fa9e4d5e06,Политика,2
+normalized_title,49,27265,В Воронежской области объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/668549f19a79475e53448afd,Политика,2
+normalized_title,50,33904,В Воронежской области предупредили об угрозе атаки беспилотников,https://www.rbc.ru/politics/13/08/2024/66bbb0a99a79472b5b23c4f1,Политика,2
+normalized_title,50,35220,В Воронежской области предупредили об угрозе атаки беспилотников,https://www.rbc.ru/rbcfreenews/66c7bc159a794760b5244791,Политика,2
+normalized_title,51,10257,В Воронежской области сбили украинский беспилотник,https://www.rbc.ru/rbcfreenews/65f872699a79477c7ea4101f,Политика,2
+normalized_title,51,33617,В Воронежской области сбили украинский беспилотник,https://www.rbc.ru/rbcfreenews/66b9577d9a794761110a3339,Политика,2
+normalized_title,52,7961,В двух городских округах Белгородской области объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/65e3aec49a7947425926ca7a,Политика,2
+normalized_title,52,9184,В двух городских округах Белгородской области объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/65efaf289a79475234ad26b1,Политика,2
+normalized_title,53,14546,В Днепре прогремел взрыв,https://www.rbc.ru/rbcfreenews/661c17229a794748d6d00829,Политика,2
+normalized_title,53,14573,В Днепре прогремел взрыв,https://www.rbc.ru/rbcfreenews/661c756f9a794777492ecbd6,Политика,2
+normalized_title,54,513,В Днепре прогремели взрывы,https://www.rbc.ru/politics/07/01/2024/659a6e7e9a79473422111b49,Политика,7
+normalized_title,54,5248,В Днепре прогремели взрывы,https://www.rbc.ru/rbcfreenews/65ca861e9a794742c42922b4,Политика,7
+normalized_title,54,7967,В Днепре прогремели взрывы,https://www.rbc.ru/rbcfreenews/65e3c9bf9a7947072e94558e,Политика,7
+normalized_title,54,22112,В Днепре прогремели взрывы,https://www.rbc.ru/rbcfreenews/665b8b799a79479a65cd2158,Политика,7
+normalized_title,54,22453,В Днепре прогремели взрывы,https://www.rbc.ru/rbcfreenews/665e77629a7947ce19be9df2,Политика,7
+normalized_title,54,26822,В Днепре прогремели взрывы,https://www.rbc.ru/rbcfreenews/6681e7c89a7947a2c6ebb1f0,Политика,7
+normalized_title,54,28942,В Днепре прогремели взрывы,https://www.rbc.ru/rbcfreenews/6692ef639a7947b668ff1a9f,Политика,7
+normalized_title,55,21625,В Днепре прозвучал взрыв,https://www.rbc.ru/rbcfreenews/6657969d9a7947a21979b455,Политика,2
+normalized_title,55,28875,В Днепре прозвучал взрыв,https://www.rbc.ru/rbcfreenews/669251da9a7947350bd809b9,Политика,2
+normalized_title,56,460,В Днепре прозвучали взрывы,https://www.rbc.ru/rbcfreenews/6599a7ca9a794763272785aa,Политика,4
+normalized_title,56,11762,В Днепре прозвучали взрывы,https://www.rbc.ru/rbcfreenews/6604a7e29a794760a795313d,Политика,4
+normalized_title,56,12469,В Днепре прозвучали взрывы,https://www.rbc.ru/rbcfreenews/660b52d19a79474e7fb43544,Политика,4
+normalized_title,56,28116,В Днепре прозвучали взрывы,https://www.rbc.ru/rbcfreenews/668c52af9a7947730af67ff3,Политика,4
+normalized_title,57,6074,В Днепропетровской области сообщили о повреждении объекта инфраструктуры,https://www.rbc.ru/rbcfreenews/65d239949a79473c6bf30f08,Политика,5
+normalized_title,57,8789,В Днепропетровской области сообщили о повреждении объекта инфраструктуры,https://www.rbc.ru/rbcfreenews/65eb5b869a79477db0e2f480,Политика,5
+normalized_title,57,11888,В Днепропетровской области сообщили о повреждении объекта инфраструктуры,https://www.rbc.ru/rbcfreenews/66059fcb9a794725263b8245,Политика,5
+normalized_title,57,20352,В Днепропетровской области сообщили о повреждении объекта инфраструктуры,https://www.rbc.ru/rbcfreenews/664d7ce19a794771ee62490a,Политика,5
+normalized_title,57,25832,В Днепропетровской области сообщили о повреждении объекта инфраструктуры,https://www.rbc.ru/rbcfreenews/6679a1ac9a7947852d926517,Политика,5
+normalized_title,58,17166,В Днепропетровской области сообщили о повреждении объектов инфраструктуры,https://www.rbc.ru/rbcfreenews/663267f19a794746b0c79913,Политика,2
+normalized_title,58,23319,В Днепропетровской области сообщили о повреждении объектов инфраструктуры,https://www.rbc.ru/rbcfreenews/666421079a7947da0d04aac6,Политика,2
+normalized_title,59,9259,В Иваново потерпел крушение военно-транспортный самолет Ил-76,https://www.rbc.ru/politics/12/03/2024/65f031fc9a7947c566adab2f,Политика,2
+normalized_title,59,9265,В Иваново потерпел крушение военно-транспортный самолет Ил-76,https://www.rbc.ru/society/12/03/2024/65f032889a794735869df88a,Общество,2
+normalized_title,60,2439,В Киеве и Харькове прогремели взрывы,https://www.rbc.ru/politics/23/01/2024/65af4cf59a79478cb42793b4,Политика,2
+normalized_title,60,36647,В Киеве и Харькове прогремели взрывы,https://www.rbc.ru/rbcfreenews/66d522e79a794704a124672f,Политика,2
+normalized_title,61,4472,В Киеве прогремели взрывы,https://www.rbc.ru/politics/07/02/2024/65c30eb49a7947ed375e18b4,Политика,16
+normalized_title,61,10652,В Киеве прогремели взрывы,https://www.rbc.ru/rbcfreenews/65fba47d9a7947bb7ade87d8,Политика,16
+normalized_title,61,11362,В Киеве прогремели взрывы,https://www.rbc.ru/politics/25/03/2024/660137859a794784c3884423,Политика,16
+normalized_title,61,15835,В Киеве прогремели взрывы,https://www.rbc.ru/politics/23/04/2024/662703f09a7947e88a1e6e27,Политика,16
+normalized_title,61,21807,В Киеве прогремели взрывы,https://www.rbc.ru/politics/31/05/2024/665931ba9a79475b4ba85782,Политика,16
+normalized_title,61,23886,В Киеве прогремели взрывы,https://www.rbc.ru/politics/12/06/2024/6668f5ac9a794720a51784d6,Политика,16
+normalized_title,61,26783,В Киеве прогремели взрывы,https://www.rbc.ru/politics/30/06/2024/668189b69a794782c373433b,Политика,16
+normalized_title,61,29930,В Киеве прогремели взрывы,https://www.rbc.ru/politics/20/07/2024/669ae7d19a794790006e4810,Политика,16
+normalized_title,61,32606,В Киеве прогремели взрывы,https://www.rbc.ru/politics/05/08/2024/66b1335c9a794752d0a337b4,Политика,16
+normalized_title,61,34405,В Киеве прогремели взрывы,https://www.rbc.ru/rbcfreenews/66c025789a794769807d5d73,Политика,16
+normalized_title,61,34510,В Киеве прогремели взрывы,https://www.rbc.ru/politics/18/08/2024/66c159ff9a794741dc6568ec,Политика,16
+normalized_title,61,39077,В Киеве прогремели взрывы,https://www.rbc.ru/politics/18/09/2024/66ea1e0f9a7947de06e38168,Политика,16
+normalized_title,61,42993,В Киеве прогремели взрывы,https://www.rbc.ru/politics/13/10/2024/670b38769a794715dabdedf7,Политика,16
+normalized_title,61,43606,В Киеве прогремели взрывы,https://www.rbc.ru/politics/17/10/2024/6710457a9a794751955c1c25,Политика,16
+normalized_title,61,43782,В Киеве прогремели взрывы,https://www.rbc.ru/politics/18/10/2024/671186639a794728850ccdb3,Политика,16
+normalized_title,61,44743,В Киеве прогремели взрывы,https://www.rbc.ru/politics/24/10/2024/6719852f9a79473029f9615b,Политика,16
+normalized_title,62,9171,В Киеве прозвучал взрыв,https://www.rbc.ru/rbcfreenews/65ef82959a7947a8145428fa,Политика,2
+normalized_title,62,26358,В Киеве прозвучал взрыв,https://www.rbc.ru/politics/27/06/2024/667d897f9a79471692c7071e,Политика,2
+normalized_title,63,27345,В Киеве прозвучали взрывы,https://www.rbc.ru/politics/04/07/2024/6685f8ed9a79478107389534,Политика,6
+normalized_title,63,27983,В Киеве прозвучали взрывы,https://www.rbc.ru/politics/08/07/2024/668b95ee9a7947c41a88f9c4,Политика,6
+normalized_title,63,29578,В Киеве прозвучали взрывы,https://www.rbc.ru/politics/17/07/2024/669824ec9a7947a184b7d9bd,Политика,6
+normalized_title,63,36107,В Киеве прозвучали взрывы,https://www.rbc.ru/rbcfreenews/66cfcea99a7947daee642d81,Политика,6
+normalized_title,63,36405,В Киеве прозвучали взрывы,https://www.rbc.ru/rbcfreenews/66d25ff39a7947fe17cd460f,Политика,6
+normalized_title,63,37635,В Киеве прозвучали взрывы,https://www.rbc.ru/politics/09/09/2024/66de393d9a79472df3aee97d,Политика,6
+normalized_title,64,86,В Киеве раздались взрывы,https://www.rbc.ru/politics/02/01/2024/6593634e9a79470798554cd1,Политика,2
+normalized_title,64,40976,В Киеве раздались взрывы,https://www.rbc.ru/rbcfreenews/66fa078f9a7947290ee39430,Политика,2
+normalized_title,65,31652,В Киеве сработала ПВО,https://www.rbc.ru/rbcfreenews/66a94a119a7947c846462d51,Политика,2
+normalized_title,65,43978,В Киеве сработала ПВО,https://www.rbc.ru/rbcfreenews/671328d59a79470c578b0fa6,Политика,2
+normalized_title,66,27335,В Киевской области сообщили о работе ПВО,https://www.rbc.ru/rbcfreenews/6685cd059a7947ad74039ab3,Политика,3
+normalized_title,66,33928,В Киевской области сообщили о работе ПВО,https://www.rbc.ru/rbcfreenews/66bbe4a89a7947f733c00c76,Политика,3
+normalized_title,66,34927,В Киевской области сообщили о работе ПВО,https://www.rbc.ru/rbcfreenews/66c52c4c9a7947a8e5fbf87e,Политика,3
+normalized_title,67,1426,В конгрессе США согласовали временное финансирование правительства,https://www.rbc.ru/rbcfreenews/65a4ccdb9a794765d1b6fd81,Политика,2
+normalized_title,67,1427,В конгрессе США согласовали временное финансирование правительства,https://www.rbc.ru/politics/15/01/2024/65a4ccdb9a794765d1b6fd81,Политика,2
+normalized_title,68,3603,В Кривом Роге прогремел взрыв,https://www.rbc.ru/rbcfreenews/65ba6d669a7947738f0b668d,Политика,2
+normalized_title,68,19906,В Кривом Роге прогремел взрыв,https://www.rbc.ru/rbcfreenews/6649c7929a79473583c6db7a,Политика,2
+normalized_title,69,8918,В Курске объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/65ed3d989a794758bdebc830,Политика,2
+normalized_title,69,16010,В Курске объявили ракетную опасность,https://www.rbc.ru/politics/24/04/2024/662830da9a79470d6bbbb1e2,Политика,2
+normalized_title,70,29074,В Курской и Белгородской областях объявили опасность атаки дронов,https://www.rbc.ru/rbcfreenews/669448029a7947867a614e93,Политика,3
+normalized_title,70,33606,В Курской и Белгородской областях объявили опасность атаки дронов,https://www.rbc.ru/rbcfreenews/66b936db9a79476fc8cca8c8,Политика,3
+normalized_title,70,39836,В Курской и Белгородской областях объявили опасность атаки дронов,https://www.rbc.ru/rbcfreenews/66f096999a79476b87c8a0e6,Политика,3
+normalized_title,71,26646,В Курской и Белгородской областях объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/668002c99a79472a8edf60bc,Политика,7
+normalized_title,71,31336,В Курской и Белгородской областях объявили ракетную опасность,https://www.rbc.ru/politics/29/07/2024/66a6ebac9a794714f707912d,Политика,7
+normalized_title,71,31508,В Курской и Белгородской областях объявили ракетную опасность,https://www.rbc.ru/politics/30/07/2024/66a83c2e9a79470a21d6b947,Политика,7
+normalized_title,71,32844,В Курской и Белгородской областях объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66b30c829a79473935ee0136,Политика,7
+normalized_title,71,34605,В Курской и Белгородской областях объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66c25d899a794755767c4396,Политика,7
+normalized_title,71,34921,В Курской и Белгородской областях объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66c519f69a79471ebb572047,Политика,7
+normalized_title,71,35377,В Курской и Белгородской областях объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66c8f0279a794732e107c7e3,Политика,7
+normalized_title,72,9409,В Курской области обстреляли поселок Теткино,https://www.rbc.ru/rbcfreenews/65f14ea59a79470defdc2699,Политика,2
+normalized_title,72,10041,В Курской области обстреляли поселок Тёткино,https://www.rbc.ru/rbcfreenews/65f6d3669a79474f350c2028,Политика,2
+normalized_title,73,9482,В Курской области объявили опасность атаки беспилотников,https://www.rbc.ru/rbcfreenews/65f1b17d9a79470ca9a7a697,Политика,11
+normalized_title,73,9548,В Курской области объявили опасность атаки беспилотников,https://www.rbc.ru/rbcfreenews/65f246a19a7947770ae354c3,Политика,11
+normalized_title,73,11274,В Курской области объявили опасность атаки беспилотников,https://www.rbc.ru/rbcfreenews/6600596a9a7947f52077cab6,Политика,11
+normalized_title,73,12185,В Курской области объявили опасность атаки беспилотников,https://www.rbc.ru/rbcfreenews/66088a4d9a794774abc2a180,Политика,11
+normalized_title,73,14895,В Курской области объявили опасность атаки беспилотников,https://www.rbc.ru/rbcfreenews/661f0b369a79473a6cddc26f,Политика,11
+normalized_title,73,17140,В Курской области объявили опасность атаки беспилотников,https://www.rbc.ru/rbcfreenews/663228e19a79475a3377aca4,Политика,11
+normalized_title,73,18278,В Курской области объявили опасность атаки беспилотников,https://www.rbc.ru/rbcfreenews/663c0d139a7947d5dd47b3b4,Политика,11
+normalized_title,73,19159,В Курской области объявили опасность атаки беспилотников,https://www.rbc.ru/rbcfreenews/6643d2919a79474487134967,Политика,11
+normalized_title,73,23512,В Курской области объявили опасность атаки беспилотников,https://www.rbc.ru/rbcfreenews/666610dc9a79472f684bc2db,Политика,11
+normalized_title,73,30529,В Курской области объявили опасность атаки беспилотников,https://www.rbc.ru/rbcfreenews/66a033c69a7947703fccdb27,Политика,11
+normalized_title,73,36395,В Курской области объявили опасность атаки беспилотников,https://www.rbc.ru/rbcfreenews/66d232ca9a794776547df536,Политика,11
+normalized_title,74,9601,В Курской области объявили опасность атаки дронов,https://www.rbc.ru/rbcfreenews/65f2c7819a7947c2cd074468,Политика,7
+normalized_title,74,18381,В Курской области объявили опасность атаки дронов,https://www.rbc.ru/rbcfreenews/663d2b849a794709396c83b5,Политика,7
+normalized_title,74,22266,В Курской области объявили опасность атаки дронов,https://www.rbc.ru/rbcfreenews/665ce7489a794708fc609721,Политика,7
+normalized_title,74,28109,В Курской области объявили опасность атаки дронов,https://www.rbc.ru/rbcfreenews/668c45be9a79475f0b0e1d6b,Политика,7
+normalized_title,74,31203,В Курской области объявили опасность атаки дронов,https://www.rbc.ru/rbcfreenews/66a571cd9a79476d836159d5,Политика,7
+normalized_title,74,33003,В Курской области объявили опасность атаки дронов,https://www.rbc.ru/rbcfreenews/66b416769a7947182277a252,Политика,7
+normalized_title,74,33773,В Курской области объявили опасность атаки дронов,https://www.rbc.ru/rbcfreenews/66ba8ce99a794714d0896144,Политика,7
+normalized_title,75,5400,В Курской области объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/65cbe9629a79479595d301c5,Политика,16
+normalized_title,75,6829,В Курской области объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/65d8ffce9a79470525560248,Политика,16
+normalized_title,75,6954,В Курской области объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/65da67d99a7947240e2554f5,Политика,16
+normalized_title,75,8551,В Курской области объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/65e8d9ef9a79471faa4856af,Политика,16
+normalized_title,75,8800,В Курской области объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/65eb9eca9a79476cde98383b,Политика,16
+normalized_title,75,9885,В Курской области объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/65f50dda9a7947a938edd18a,Политика,16
+normalized_title,75,30547,В Курской области объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66a073629a7947fda677e2ac,Политика,16
+normalized_title,75,31667,В Курской области объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66a96d969a79476e95362bf6,Политика,16
+normalized_title,75,32037,В Курской области объявили ракетную опасность,https://www.rbc.ru/politics/02/08/2024/66abffba9a794729a97b7c25,Политика,16
+normalized_title,75,32858,В Курской области объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66b32aa09a794771c95fafff,Политика,16
+normalized_title,75,32996,В Курской области объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66b401f69a7947c90e8d8bc2,Политика,16
+normalized_title,75,33039,В Курской области объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66b474229a79472298fcf44e,Политика,16
+normalized_title,75,33599,В Курской области объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66b927779a79476a8b01fb8d,Политика,16
+normalized_title,75,33670,В Курской области объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66b9d39e9a7947022869403d,Политика,16
+normalized_title,75,33781,В Курской области объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66baaa879a794767b6b9d1b5,Политика,16
+normalized_title,75,34526,В Курской области объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66c19e109a79476e728158f2,Политика,16
+normalized_title,76,25006,В Курской области объявили режим ракетной опасности,https://www.rbc.ru/rbcfreenews/6672c10b9a794703dcda9447,Политика,2
+normalized_title,76,34255,В Курской области объявили режим ракетной опасности,https://www.rbc.ru/rbcfreenews/66beed769a79470a82597758,Политика,2
+normalized_title,77,12502,В Липецкой области ввели режим воздушной опасности,https://www.rbc.ru/rbcfreenews/660ba9a29a794731cc61934e,Политика,9
+normalized_title,77,13646,В Липецкой области ввели режим воздушной опасности,https://www.rbc.ru/rbcfreenews/661508569a79474a11a55d51,Общество,9
+normalized_title,77,13936,В Липецкой области ввели режим воздушной опасности,https://www.rbc.ru/rbcfreenews/661718d29a79478e72777762,Политика,9
+normalized_title,77,14905,В Липецкой области ввели режим воздушной опасности,https://www.rbc.ru/rbcfreenews/661f2dcf9a79470c1329b0bd,Политика,9
+normalized_title,77,15488,В Липецкой области ввели режим воздушной опасности,https://www.rbc.ru/rbcfreenews/6623bb469a7947c5ece737ed,Политика,9
+normalized_title,77,16025,В Липецкой области ввели режим воздушной опасности,https://www.rbc.ru/rbcfreenews/662860679a794770fbc44fce,Политика,9
+normalized_title,77,21081,В Липецкой области ввели режим воздушной опасности,https://www.rbc.ru/rbcfreenews/6653d52a9a79476673ac5fc6,Общество,9
+normalized_title,77,29088,В Липецкой области ввели режим воздушной опасности,https://www.rbc.ru/rbcfreenews/669461cd9a79477e54629d16,Политика,9
+normalized_title,77,31091,В Липецкой области ввели режим воздушной опасности,https://www.rbc.ru/rbcfreenews/66a45d1a9a79478e280cd7e4,Политика,9
+normalized_title,78,9728,В Липецкой области объявили режим воздушной опасности,https://www.rbc.ru/politics/15/03/2024/65f3d29e9a7947802b2b2e31,Политика,7
+normalized_title,78,13333,В Липецкой области объявили режим воздушной опасности,https://www.rbc.ru/rbcfreenews/661287189a7947b774d7ea7b,Политика,7
+normalized_title,78,14775,В Липецкой области объявили режим воздушной опасности,https://www.rbc.ru/politics/16/04/2024/661e378d9a7947e725d5db84,Политика,7
+normalized_title,78,18149,В Липецкой области объявили режим воздушной опасности,https://www.rbc.ru/rbcfreenews/663b48d79a7947449d02b064,Политика,7
+normalized_title,78,18667,В Липецкой области объявили режим воздушной опасности,https://www.rbc.ru/rbcfreenews/66401eac9a7947225e07870e,Политика,7
+normalized_title,78,27511,В Липецкой области объявили режим воздушной опасности,https://www.rbc.ru/rbcfreenews/6687268a9a7947dcff456db4,Политика,7
+normalized_title,78,33485,В Липецкой области объявили режим воздушной опасности,https://www.rbc.ru/rbcfreenews/66b7fac29a7947342860070b,Политика,7
+normalized_title,79,23446,В Миргороде прогремели взрывы,https://www.rbc.ru/politics/09/06/2024/666579f39a79471a2aa3bb18,Политика,2
+normalized_title,79,24384,В Миргороде прогремели взрывы,https://www.rbc.ru/rbcfreenews/666d72509a79471961fcdb44,Политика,2
+normalized_title,80,462,В Москве загорелся «Дом-корабль»,https://www.rbc.ru/rbcfreenews/6599ad419a79474f7d40b204,Общество,2
+normalized_title,80,42542,В Москве загорелся «Дом-корабль»,https://www.rbc.ru/society/10/10/2024/6707348b9a7947a015dd5105,Общество,2
+normalized_title,81,41831,В НИИ Склифосовского рассказали о состоянии Василия Ливанова,https://www.rbc.ru/society/05/10/2024/6700ef169a7947063489fd84,Общество,2
+normalized_title,81,41935,В НИИ Склифосовского рассказали о состоянии Василия Ливанова,https://www.rbc.ru/rbcfreenews/67023a239a79472841d8f7a8,Общество,2
+normalized_title,82,8044,В Николаеве прогремели взрывы,https://www.rbc.ru/politics/03/03/2024/65e4b5b79a794737d9f7a184,Политика,4
+normalized_title,82,13771,В Николаеве прогремели взрывы,https://www.rbc.ru/rbcfreenews/6615d9509a79474ad3ac5d84,Политика,4
+normalized_title,82,16765,В Николаеве прогремели взрывы,https://www.rbc.ru/rbcfreenews/662da9039a7947262e0a8a34,Политика,4
+normalized_title,82,43260,В Николаеве прогремели взрывы,https://www.rbc.ru/rbcfreenews/670dac3f9a79470d5b00916c,Политика,4
+normalized_title,83,8224,В Одессе и области прогремели взрывы,https://www.rbc.ru/rbcfreenews/65e649d99a7947507c862e39,Политика,2
+normalized_title,83,11307,В Одессе и области прогремели взрывы,https://www.rbc.ru/politics/25/03/2024/6600a4ab9a7947ae2594e74f,Политика,2
+normalized_title,84,8435,В Одессе прогремел взрыв,https://www.rbc.ru/politics/06/03/2024/65e82f659a79474863f6356e,Политика,9
+normalized_title,84,15440,В Одессе прогремел взрыв,https://www.rbc.ru/politics/20/04/2024/66233b209a79476ef4305672,Политика,9
+normalized_title,84,15584,В Одессе прогремел взрыв,https://www.rbc.ru/politics/21/04/2024/6624ec6d9a7947372b53223a,Политика,9
+normalized_title,84,18349,В Одессе прогремел взрыв,https://www.rbc.ru/politics/09/05/2024/663cdcb59a7947dbe5c18da2,Политика,9
+normalized_title,84,21619,В Одессе прогремел взрыв,https://www.rbc.ru/rbcfreenews/665784839a7947156a825b09,Политика,9
+normalized_title,84,23412,В Одессе прогремел взрыв,https://www.rbc.ru/rbcfreenews/66652a3f9a7947ecba74c931,Политика,9
+normalized_title,84,25716,В Одессе прогремел взрыв,https://www.rbc.ru/rbcfreenews/6679052e9a79473e9877e107,Политика,9
+normalized_title,84,29082,В Одессе прогремел взрыв,https://www.rbc.ru/politics/15/07/2024/669456b49a79472f043201cd,Политика,9
+normalized_title,84,30231,В Одессе прогремел взрыв,https://www.rbc.ru/rbcfreenews/669e172c9a7947807d051ece,Политика,9
+normalized_title,85,9992,В Одессе прогремели взрывы,https://www.rbc.ru/rbcfreenews/65f6387d9a7947aa964cdb54,Политика,8
+normalized_title,85,12001,В Одессе прогремели взрывы,https://www.rbc.ru/politics/29/03/2024/6606b6e59a7947717b2e9e79,Политика,8
+normalized_title,85,13133,В Одессе прогремели взрывы,https://www.rbc.ru/rbcfreenews/661053a59a7947fa6120dd86,Политика,8
+normalized_title,85,17187,В Одессе прогремели взрывы,https://www.rbc.ru/rbcfreenews/663298aa9a794785fd2e8a7c,Политика,8
+normalized_title,85,28310,В Одессе прогремели взрывы,https://www.rbc.ru/politics/10/07/2024/668dde619a794700c61f3815,Политика,8
+normalized_title,85,28891,В Одессе прогремели взрывы,https://www.rbc.ru/rbcfreenews/66927b8a9a7947c512cf4e96,Политика,8
+normalized_title,85,29120,В Одессе прогремели взрывы,https://www.rbc.ru/rbcfreenews/6694b5959a7947ef493cd63a,Политика,8
+normalized_title,85,39528,В Одессе прогремели взрывы,https://www.rbc.ru/rbcfreenews/66ed761f9a794759173c3070,Политика,8
+normalized_title,86,23892,В Одессе прозвучал взрыв,https://www.rbc.ru/rbcfreenews/6669071b9a79470e6eba2524,Политика,4
+normalized_title,86,24727,В Одессе прозвучал взрыв,https://www.rbc.ru/rbcfreenews/66709f2c9a794769ebcd98b0,Политика,4
+normalized_title,86,26482,В Одессе прозвучал взрыв,https://www.rbc.ru/rbcfreenews/667e7bb09a79471835d30552,Политика,4
+normalized_title,86,27186,В Одессе прозвучал взрыв,https://www.rbc.ru/rbcfreenews/6684d62f9a79470e0b17dfdd,Политика,4
+normalized_title,87,4614,В Одессе прозвучали взрывы,https://www.rbc.ru/rbcfreenews/65c406f79a7947a0404a2ffe,Политика,10
+normalized_title,87,7362,В Одессе прозвучали взрывы,https://www.rbc.ru/rbcfreenews/65de4df59a79478ed3a072dc,Политика,10
+normalized_title,87,7867,В Одессе прозвучали взрывы,https://www.rbc.ru/rbcfreenews/65e264be9a7947a8b263691b,Политика,10
+normalized_title,87,13255,В Одессе прозвучали взрывы,https://www.rbc.ru/rbcfreenews/66119f119a79472c09b71b18,Политика,10
+normalized_title,87,13779,В Одессе прозвучали взрывы,https://www.rbc.ru/rbcfreenews/6615fa8f9a79470aa72b44a7,Политика,10
+normalized_title,87,23064,В Одессе прозвучали взрывы,https://www.rbc.ru/rbcfreenews/666235789a79471390a5df00,Политика,10
+normalized_title,87,32221,В Одессе прозвучали взрывы,https://www.rbc.ru/rbcfreenews/66ad65ff9a79477470801b59,Политика,10
+normalized_title,87,36224,В Одессе прозвучали взрывы,https://www.rbc.ru/rbcfreenews/66d0af449a7947d54fce3598,Политика,10
+normalized_title,87,41799,В Одессе прозвучали взрывы,https://www.rbc.ru/rbcfreenews/670072189a79470d19260066,Политика,10
+normalized_title,87,42205,В Одессе прозвучали взрывы,https://www.rbc.ru/rbcfreenews/67047be69a7947476801d094,Политика,10
+normalized_title,88,15829,В Одессе произошел взрыв,https://www.rbc.ru/politics/23/04/2024/6626eb8e9a794749e594fb68,Политика,2
+normalized_title,88,27729,В Одессе произошел взрыв,https://www.rbc.ru/rbcfreenews/6688fcce9a794720be6b2712,Политика,2
+normalized_title,89,6826,В Одессе произошли взрывы,https://www.rbc.ru/rbcfreenews/65d8f8c09a79472339b3176a,Политика,2
+normalized_title,89,29733,В Одессе произошли взрывы,https://www.rbc.ru/rbcfreenews/669956719a79479bde3ea6cd,Политика,2
+normalized_title,90,16038,В Одессе раздались взрывы,https://www.rbc.ru/politics/24/04/2024/662884859a7947852be5ddd9,Политика,3
+normalized_title,90,38334,В Одессе раздались взрывы,https://www.rbc.ru/rbcfreenews/66e399a39a7947210799f0ed,Политика,3
+normalized_title,90,42497,В Одессе раздались взрывы,https://www.rbc.ru/rbcfreenews/6706bbaf9a7947972208809f,Политика,3
+normalized_title,91,12967,В Одесской области прогремели взрывы,https://www.rbc.ru/politics/05/04/2024/660f51659a79470bfb51ee2c,Политика,4
+normalized_title,91,15646,В Одесской области прогремели взрывы,https://www.rbc.ru/politics/22/04/2024/662595179a79478287e66a01,Политика,4
+normalized_title,91,18012,В Одесской области прогремели взрывы,https://www.rbc.ru/rbcfreenews/663a18fa9a794727b736b39e,Политика,4
+normalized_title,91,26724,В Одесской области прогремели взрывы,https://www.rbc.ru/politics/30/06/2024/6680f3549a79479003164e79,Политика,4
+normalized_title,92,17700,В Полтаве прогремели взрывы,https://www.rbc.ru/rbcfreenews/66378bca9a7947f1ccf8158c,Политика,2
+normalized_title,92,24438,В Полтаве прогремели взрывы,https://www.rbc.ru/rbcfreenews/666df6899a794735de95e64a,Политика,2
+normalized_title,93,6638,В приложении Райффайзенбанка произошел сбой,https://www.rbc.ru/technology_and_media/22/02/2024/65d7174d9a7947797b043e1b,Технологии и медиа,2
+normalized_title,93,11972,В приложении Райффайзенбанка произошел сбой,https://www.rbc.ru/finances/29/03/2024/660684c49a7947f5f948d602,Финансы,2
+normalized_title,94,6040,В работе Telegram произошел сбой,https://www.rbc.ru/technology_and_media/18/02/2024/65d1ebb29a794737e9e8a020,Технологии и медиа,6
+normalized_title,94,12593,В работе Telegram произошел сбой,https://www.rbc.ru/rbcfreenews/660c3bd69a79470c68e5dca9,Технологии и медиа,6
+normalized_title,94,23380,В работе Telegram произошел сбой,https://www.rbc.ru/technology_and_media/08/06/2024/6664a5dc9a7947848cea3801,Технологии и медиа,6
+normalized_title,94,27136,В работе Telegram произошел сбой,https://www.rbc.ru/technology_and_media/02/07/2024/66843ee29a7947649967a8bb,Технологии и медиа,6
+normalized_title,94,33777,В работе Telegram произошел сбой,https://www.rbc.ru/technology_and_media/13/08/2024/66ba9bb69a7947547f631b48,Технологии и медиа,6
+normalized_title,94,34609,В работе Telegram произошел сбой,https://www.rbc.ru/technology_and_media/19/08/2024/66c267d89a79474e579b7c7a,Технологии и медиа,6
+normalized_title,95,16708,В России обновился исторический минимум безработицы,https://www.rbc.ru/economics/27/04/2024/662d101f9a79472ebcc1f3d1,Экономика,2
+normalized_title,95,22789,В России обновился исторический минимум безработицы,https://www.rbc.ru/economics/05/06/2024/666094979a79472c0e2ea504,Экономика,2
+normalized_title,96,35951,В Ростовской области сбили четыре украинских беспилотника,https://www.rbc.ru/rbcfreenews/66ce6eed9a7947816647eb4c,Политика,2
+normalized_title,96,44566,В Ростовской области сбили четыре украинских беспилотника,https://www.rbc.ru/rbcfreenews/671840779a79479add2756b6,Политика,2
+normalized_title,97,367,В Севастополе второй раз за день объявили воздушную тревогу,https://www.rbc.ru/rbcfreenews/6597ce639a794726ab1e8a28,Политика,2
+normalized_title,97,2240,В Севастополе второй раз за день объявили воздушную тревогу,https://www.rbc.ru/politics/21/01/2024/65ad0b889a794773d446999f,Политика,2
+normalized_title,98,363,В Севастополе объявили воздушную тревогу,https://www.rbc.ru/rbcfreenews/6597bc9d9a794741155fae45,Политика,16
+normalized_title,98,1755,В Севастополе объявили воздушную тревогу,https://www.rbc.ru/rbcfreenews/65a7da069a79472b784c772b,Политика,16
+normalized_title,98,2226,В Севастополе объявили воздушную тревогу,https://www.rbc.ru/rbcfreenews/65acec8c9a794724045f403d,Политика,16
+normalized_title,98,2399,В Севастополе объявили воздушную тревогу,https://www.rbc.ru/rbcfreenews/65aebefd9a794773027b78cc,Политика,16
+normalized_title,98,6143,В Севастополе объявили воздушную тревогу,https://www.rbc.ru/rbcfreenews/65d30e459a79475d0e4726ba,Политика,16
+normalized_title,98,13106,В Севастополе объявили воздушную тревогу,https://www.rbc.ru/politics/05/04/2024/660ffa5e9a7947b08f53d4d2,Политика,16
+normalized_title,98,13798,В Севастополе объявили воздушную тревогу,https://www.rbc.ru/rbcfreenews/66162fe59a79470edc2ced5a,Политика,16
+normalized_title,98,14617,В Севастополе объявили воздушную тревогу,https://www.rbc.ru/rbcfreenews/661ce4f19a79474ed74385ad,Политика,16
+normalized_title,98,15000,В Севастополе объявили воздушную тревогу,https://www.rbc.ru/rbcfreenews/661fd1369a79477643ed859a,Политика,16
+normalized_title,98,20031,В Севастополе объявили воздушную тревогу,https://www.rbc.ru/rbcfreenews/664aeaa19a79478ed4a6d11d,Политика,16
+normalized_title,98,20954,В Севастополе объявили воздушную тревогу,https://www.rbc.ru/politics/25/05/2024/665234f59a7947dfc44239e8,Политика,16
+normalized_title,98,26957,В Севастополе объявили воздушную тревогу,https://www.rbc.ru/rbcfreenews/6682ce759a7947e4578d6d35,Политика,16
+normalized_title,98,27121,В Севастополе объявили воздушную тревогу,https://www.rbc.ru/rbcfreenews/668419149a79477e9970c42f,Политика,16
+normalized_title,98,27554,В Севастополе объявили воздушную тревогу,https://www.rbc.ru/rbcfreenews/66879ef49a7947395f174983,Политика,16
+normalized_title,98,31042,В Севастополе объявили воздушную тревогу,https://www.rbc.ru/rbcfreenews/66a3d0029a7947b6c3de6c07,Политика,16
+normalized_title,98,43711,В Севастополе объявили воздушную тревогу,https://www.rbc.ru/rbcfreenews/671101e19a79478db598bd30,Политика,16
+normalized_title,99,26614,В Севастополе объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/667fa3099a7947fca1d7dc87,Политика,2
+normalized_title,99,39776,В Севастополе объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66f00b929a79476134cc65c0,Политика,2
+normalized_title,100,30078,В Севастополе объявили угрозу баллистических ракет,https://www.rbc.ru/rbcfreenews/669c919c9a79478466274ffa,Политика,2
+normalized_title,100,30892,В Севастополе объявили угрозу баллистических ракет,https://www.rbc.ru/rbcfreenews/66a2e33e9a7947ccd4b8d715,Политика,2
+normalized_title,101,19166,В Севастополе сработала ПВО,https://www.rbc.ru/rbcfreenews/6643f0229a794798e47561aa,Политика,3
+normalized_title,101,23881,В Севастополе сработала ПВО,https://www.rbc.ru/politics/12/06/2024/6668e4579a79473ca18d11b3,Политика,3
+normalized_title,101,25578,В Севастополе сработала ПВО,https://www.rbc.ru/rbcfreenews/6677eb289a7947cbad38357c,Политика,3
+normalized_title,102,18609,В Сумах и Одессе прозвучали взрывы,https://www.rbc.ru/rbcfreenews/663f70b29a79472494649dc2,Политика,2
+normalized_title,102,33576,В Сумах и Одессе прозвучали взрывы,https://www.rbc.ru/rbcfreenews/66b8ec749a7947110cb4b058,Политика,2
+normalized_title,103,15404,В Сумах прогремели взрывы,https://www.rbc.ru/rbcfreenews/6622ccbc9a79470b9403a5e1,Политика,3
+normalized_title,103,17623,В Сумах прогремели взрывы,https://www.rbc.ru/rbcfreenews/663691379a7947d4f177084c,Политика,3
+normalized_title,103,39678,В Сумах прогремели взрывы,https://www.rbc.ru/rbcfreenews/66eed7d19a79470f1bfdfffa,Политика,3
+normalized_title,104,17733,В Сумах прозвучал взрыв,https://www.rbc.ru/rbcfreenews/6637f62e9a79473364439812,Политика,2
+normalized_title,104,34382,В Сумах прозвучал взрыв,https://www.rbc.ru/rbcfreenews/66bfaf6b9a794787fd7a71a3,Политика,2
+normalized_title,105,27679,В Сумах прозвучали взрывы,https://www.rbc.ru/rbcfreenews/668861999a7947e08099e5c7,Политика,2
+normalized_title,105,32635,В Сумах прозвучали взрывы,https://www.rbc.ru/rbcfreenews/66b17c979a7947a8afb3e797,Политика,2
+normalized_title,106,14711,В Тбилиси начались задержания на митинге против закона об иноагентах,https://www.rbc.ru/politics/15/04/2024/661d70069a7947c1890fd078,Политика,2
+normalized_title,106,17072,В Тбилиси начались задержания на митинге против закона об иноагентах,https://www.rbc.ru/politics/30/04/2024/66312ac29a79474639f7d8c5,Политика,2
+normalized_title,107,17182,В трех областях объявили опасность атаки дронов,https://www.rbc.ru/rbcfreenews/6632908c9a7947a99f2cf5f8,Политика,2
+normalized_title,107,36251,В трех областях объявили опасность атаки дронов,https://www.rbc.ru/rbcfreenews/66d0edde9a79472aab4228bd,Политика,2
+normalized_title,108,3944,В трех областях Украины прогремели взрывы,https://www.rbc.ru/rbcfreenews/65bd89f89a794749361e7432,Политика,2
+normalized_title,108,5013,В трех областях Украины прогремели взрывы,https://www.rbc.ru/politics/11/02/2024/65c7f0109a7947db14124af1,Политика,2
+normalized_title,109,17633,В Харькове вновь прогремели взрывы,https://www.rbc.ru/rbcfreenews/6636ae949a79475c1252d40f,Политика,2
+normalized_title,109,36635,В Харькове вновь прогремели взрывы,https://www.rbc.ru/politics/02/09/2024/66d4ea369a794779b3496a57,Политика,2
+normalized_title,110,36482,В Харькове и Сумах прозвучали взрывы,https://www.rbc.ru/rbcfreenews/66d319ea9a7947b3f6c51b35,Политика,2
+normalized_title,110,40019,В Харькове и Сумах прозвучали взрывы,https://www.rbc.ru/rbcfreenews/66f21f3d9a79478004b93b30,Политика,2
+normalized_title,111,14519,В Харькове прогремел взрыв,https://www.rbc.ru/rbcfreenews/661bd62f9a794778a736056d,Политика,13
+normalized_title,111,17442,В Харькове прогремел взрыв,https://www.rbc.ru/rbcfreenews/6634cd579a794783677d2f03,Политика,13
+normalized_title,111,18642,В Харькове прогремел взрыв,https://www.rbc.ru/rbcfreenews/663fb6129a794768cc4792a1,Политика,13
+normalized_title,111,18993,В Харькове прогремел взрыв,https://www.rbc.ru/rbcfreenews/6642d9689a7947103c11d37a,Политика,13
+normalized_title,111,20194,В Харькове прогремел взрыв,https://www.rbc.ru/rbcfreenews/664c1c319a7947bf25ec0280,Политика,13
+normalized_title,111,21615,В Харькове прогремел взрыв,https://www.rbc.ru/rbcfreenews/66577c0b9a794714d52403dd,Политика,13
+normalized_title,111,23687,В Харькове прогремел взрыв,https://www.rbc.ru/rbcfreenews/66677e859a79479bdb892cbf,Политика,13
+normalized_title,111,24549,В Харькове прогремел взрыв,https://www.rbc.ru/rbcfreenews/666f51c39a79470b49c122d4,Политика,13
+normalized_title,111,26340,В Харькове прогремел взрыв,https://www.rbc.ru/rbcfreenews/667d684e9a7947e1984a71b4,Политика,13
+normalized_title,111,30543,В Харькове прогремел взрыв,https://www.rbc.ru/rbcfreenews/66a065359a794717264f49b3,Политика,13
+normalized_title,111,32670,В Харькове прогремел взрыв,https://www.rbc.ru/rbcfreenews/66b1cb829a794751a29a96b8,Политика,13
+normalized_title,111,33731,В Харькове прогремел взрыв,https://www.rbc.ru/rbcfreenews/66ba2f2d9a79474cb5a6710f,Политика,13
+normalized_title,111,37305,В Харькове прогремел взрыв,https://www.rbc.ru/rbcfreenews/66da990e9a7947753354c994,Политика,13
+normalized_title,112,4901,В Харькове прогремела серия взрывов,https://www.rbc.ru/rbcfreenews/65c69fef9a79474efebc1aea,Политика,3
+normalized_title,112,20662,В Харькове прогремела серия взрывов,https://www.rbc.ru/rbcfreenews/664fa3ff9a79473e9de64c6d,Политика,3
+normalized_title,112,23482,В Харькове прогремела серия взрывов,https://www.rbc.ru/rbcfreenews/6665bb629a7947ad031bea00,Политика,3
+normalized_title,113,153,В Харькове прогремели взрывы,https://www.rbc.ru/politics/02/01/2024/659475129a794798e1d8ef54,Политика,15
+normalized_title,113,239,В Харькове прогремели взрывы,https://www.rbc.ru/rbcfreenews/6595caa59a79477fd56a790b,Политика,15
+normalized_title,113,7863,В Харькове прогремели взрывы,https://www.rbc.ru/rbcfreenews/65e255e69a79474b30fe9acc,Политика,15
+normalized_title,113,12791,В Харькове прогремели взрывы,https://www.rbc.ru/rbcfreenews/660dd48f9a79476aabfe325d,Политика,15
+normalized_title,113,12946,В Харькове прогремели взрывы,https://www.rbc.ru/rbcfreenews/660f04c69a79477d70daaef4,Политика,15
+normalized_title,113,18088,В Харькове прогремели взрывы,https://www.rbc.ru/rbcfreenews/663abf249a79473d19d75af5,Политика,15
+normalized_title,113,20914,В Харькове прогремели взрывы,https://www.rbc.ru/rbcfreenews/6651e5869a794757e5279ebf,Политика,15
+normalized_title,113,22265,В Харькове прогремели взрывы,https://www.rbc.ru/politics/03/06/2024/665ce5129a7947bc879d9511,Политика,15
+normalized_title,113,25228,В Харькове прогремели взрывы,https://www.rbc.ru/rbcfreenews/667485509a794787b004f4c8,Политика,15
+normalized_title,113,28793,В Харькове прогремели взрывы,https://www.rbc.ru/rbcfreenews/6691834d9a79477e9db60359,Политика,15
+normalized_title,113,29062,В Харькове прогремели взрывы,https://www.rbc.ru/rbcfreenews/669437559a7947efb2cb8440,Политика,15
+normalized_title,113,32460,В Харькове прогремели взрывы,https://www.rbc.ru/rbcfreenews/66afee6b9a79471a2a6b908e,Политика,15
+normalized_title,113,32622,В Харькове прогремели взрывы,https://www.rbc.ru/rbcfreenews/66b14ac79a794714f4751a2d,Политика,15
+normalized_title,113,33165,В Харькове прогремели взрывы,https://www.rbc.ru/rbcfreenews/66b52e3a9a794735dea6ee14,Политика,15
+normalized_title,113,42011,В Харькове прогремели взрывы,https://www.rbc.ru/rbcfreenews/6702f0e99a7947a02b11146c,Политика,15
+normalized_title,114,25847,В Харькове прогремели несколько взрывов,https://www.rbc.ru/rbcfreenews/6679cb019a7947c63bf92225,Политика,2
+normalized_title,114,39257,В Харькове прогремели несколько взрывов,https://www.rbc.ru/rbcfreenews/66eb47c09a7947ea11f810da,Политика,2
+normalized_title,115,9558,В Харькове прозвучал взрыв,https://www.rbc.ru/politics/14/03/2024/65f26c139a79477df4f28ddf,Политика,4
+normalized_title,115,12293,В Харькове прозвучал взрыв,https://www.rbc.ru/rbcfreenews/6609b8209a7947250ff34424,Политика,4
+normalized_title,115,21403,В Харькове прозвучал взрыв,https://www.rbc.ru/rbcfreenews/6656038d9a794729c8727fe1,Политика,4
+normalized_title,115,27105,В Харькове прозвучал взрыв,https://www.rbc.ru/rbcfreenews/6683fc979a794725e082319f,Политика,4
+normalized_title,116,19780,В Харькове прозвучала серия взрывов,https://www.rbc.ru/politics/18/05/2024/664896fb9a79478b8fb323e5,Политика,3
+normalized_title,116,20842,В Харькове прозвучала серия взрывов,https://www.rbc.ru/rbcfreenews/6651041d9a794734beb51704,Политика,3
+normalized_title,116,21634,В Харькове прозвучала серия взрывов,https://www.rbc.ru/rbcfreenews/6657b55f9a794781035dcabf,Политика,3
+normalized_title,117,553,В Харькове прозвучали взрывы,https://www.rbc.ru/politics/07/01/2024/659b070c9a7947891595b59e,Политика,8
+normalized_title,117,1644,В Харькове прозвучали взрывы,https://www.rbc.ru/politics/16/01/2024/65a6dd3d9a794753740fe567,Политика,8
+normalized_title,117,12176,В Харькове прозвучали взрывы,https://www.rbc.ru/rbcfreenews/6608681c9a7947661a172ace,Политика,8
+normalized_title,117,13268,В Харькове прозвучали взрывы,https://www.rbc.ru/rbcfreenews/6611c5bb9a7947b6bb450d74,Политика,8
+normalized_title,117,17004,В Харькове прозвучали взрывы,https://www.rbc.ru/politics/30/04/2024/66309a1c9a7947c13c014a31,Политика,8
+normalized_title,117,18134,В Харькове прозвучали взрывы,https://www.rbc.ru/rbcfreenews/663b37529a794711781bd7f3,Политика,8
+normalized_title,117,18804,В Харькове прозвучали взрывы,https://www.rbc.ru/rbcfreenews/664152679a79472183fadf64,Политика,8
+normalized_title,117,20175,В Харькове прозвучали взрывы,https://www.rbc.ru/rbcfreenews/664bd9009a794720c5af1cd1,Политика,8
+normalized_title,118,15526,В Харькове произошел взрыв,https://www.rbc.ru/rbcfreenews/6624276a9a794717947f0649,Политика,3
+normalized_title,118,17123,В Харькове произошел взрыв,https://www.rbc.ru/rbcfreenews/6631f5739a7947298e1b2544,Политика,3
+normalized_title,118,25400,В Харькове произошел взрыв,https://www.rbc.ru/rbcfreenews/6675dba59a7947da50c4a838,Политика,3
+normalized_title,119,3474,В Харькове раздались взрывы,https://www.rbc.ru/rbcfreenews/65b96ac49a794737601d9680,Политика,5
+normalized_title,119,5939,В Харькове раздались взрывы,https://www.rbc.ru/rbcfreenews/65d0af289a794707e15ccae2,Политика,5
+normalized_title,119,11471,В Харькове раздались взрывы,https://www.rbc.ru/politics/26/03/2024/660202a59a7947ebecc6b63e,Политика,5
+normalized_title,119,17513,В Харькове раздались взрывы,https://www.rbc.ru/rbcfreenews/6635424f9a7947b76a1aeacd,Политика,5
+normalized_title,119,20409,В Харькове раздались взрывы,https://www.rbc.ru/rbcfreenews/664dd19e9a79475462a6dbd5,Политика,5
+normalized_title,120,22155,В Херсоне прогремели взрывы,https://www.rbc.ru/rbcfreenews/665c12f79a79475bd9021baa,Политика,2
+normalized_title,120,23623,В Херсоне прогремели взрывы,https://www.rbc.ru/rbcfreenews/6666ff0c9a79479ef31b30e0,Политика,2
+normalized_title,121,18913,В Херсонской области объявили авиационную опасность,https://www.rbc.ru/rbcfreenews/6642197a9a79470392654643,Политика,4
+normalized_title,121,20629,В Херсонской области объявили авиационную опасность,https://www.rbc.ru/rbcfreenews/664f5ab69a7947aab772e190,Политика,4
+normalized_title,121,23450,В Херсонской области объявили авиационную опасность,https://www.rbc.ru/rbcfreenews/666586ee9a7947ce6ee276fb,Политика,4
+normalized_title,121,26787,В Херсонской области объявили авиационную опасность,https://www.rbc.ru/rbcfreenews/6681977e9a7947ed72458870,Политика,4
+normalized_title,122,13407,Власти Киевской области сообщили о работе ПВО,https://www.rbc.ru/rbcfreenews/661326ce9a7947b1462ceb8d,Политика,3
+normalized_title,122,21978,Власти Киевской области сообщили о работе ПВО,https://www.rbc.ru/rbcfreenews/665a4a8a9a7947fb15054902,Политика,3
+normalized_title,122,34615,Власти Киевской области сообщили о работе ПВО,https://www.rbc.ru/rbcfreenews/66c27e519a79478c68d7430a,Политика,3
+normalized_title,123,11359,Власти назвали число остающихся в больницах после теракта в «Крокусе»,https://www.rbc.ru/society/25/03/2024/660130689a79474daf7e0d83,Общество,2
+normalized_title,123,11665,Власти назвали число остающихся в больницах после теракта в «Крокусе»,https://www.rbc.ru/society/27/03/2024/6603d69b9a79471d327ce492,Общество,2
+normalized_title,124,38736,Власти сообщили о работе ПВО в Киеве,https://www.rbc.ru/rbcfreenews/66e76b6c9a7947015a42e354,Политика,2
+normalized_title,124,43425,Власти сообщили о работе ПВО в Киеве,https://www.rbc.ru/rbcfreenews/670edcd89a794792844619fe,Политика,2
+normalized_title,125,40713,Власти сообщили о работе ПВО в Киевской области,https://www.rbc.ru/politics/28/09/2024/66f73f179a7947902eb19b95,Политика,2
+normalized_title,125,42531,Власти сообщили о работе ПВО в Киевской области,https://www.rbc.ru/rbcfreenews/6707148c9a79478585522fda,Политика,2
+normalized_title,126,34616,Власти сообщили о работе ПВО вблизи Киева,https://www.rbc.ru/politics/19/08/2024/66c288df9a794756d2d9a122,Политика,2
+normalized_title,126,35779,Власти сообщили о работе ПВО вблизи Киева,https://www.rbc.ru/politics/27/08/2024/66ccffd09a7947803d851b28,Политика,2
+normalized_title,127,20631,Военная операция на Украине. Карта,https://www.rbc.ru/politics/23/05/2024/621a39ba9a79472784f029d4,Политика,2
+normalized_title,127,24868,Военная операция на Украине. Карта,https://www.rbc.ru/politics/18/06/2024/66713a2c9a7947722455495e,Политика,2
+normalized_title,128,28117,Воронежский губернатор предупредил об опасности атаки беспилотников,https://www.rbc.ru/rbcfreenews/668c56449a794743c4f1cd6c,Политика,2
+normalized_title,128,37785,Воронежский губернатор предупредил об опасности атаки беспилотников,https://www.rbc.ru/rbcfreenews/66df662f9a79476f976ee34e,Политика,2
+normalized_title,129,28083,Встреча Путина и Моди. Видео,https://www.rbc.ru/politics/08/07/2024/668beb5c9a79470cb7ab9968,Политика,2
+normalized_title,129,28203,Встреча Путина и Моди. Видео,https://www.rbc.ru/politics/09/07/2024/668d11c69a79475ce34029c3,Политика,2
+normalized_title,130,2151,ВСУ обстреляли село Новая Таволжанка в Белгородской области,https://www.rbc.ru/rbcfreenews/65abde659a794730729af9f9,Политика,2
+normalized_title,130,18971,ВСУ обстреляли село Новая Таволжанка в Белгородской области,https://www.rbc.ru/rbcfreenews/664282d39a79476b5dc52c0a,Политика,2
+normalized_title,131,27814,Вся Нигерия осталась без света из-за сбоя,https://www.rbc.ru/society/07/07/2024/6689c27d9a79473dedd24d28,Общество,2
+normalized_title,131,44042,Вся Нигерия осталась без света из-за сбоя,https://www.rbc.ru/society/19/10/2024/6713981b9a7947386bb2b942,Общество,2
+normalized_title,132,30661,Генштаб ВСУ заявил о напряженной ситуации на двух направлениях,https://www.rbc.ru/politics/24/07/2024/66a110169a79475c92898292,Политика,2
+normalized_title,132,34092,Генштаб ВСУ заявил о напряженной ситуации на двух направлениях,https://www.rbc.ru/rbcfreenews/66bd5cdd9a794712c3edccfe,Политика,2
+normalized_title,133,16992,Гладков предупредил о ракетной опасности в Белгороде,https://www.rbc.ru/politics/30/04/2024/663075229a794763fa8865aa,Политика,2
+normalized_title,133,17912,Гладков предупредил о ракетной опасности в Белгороде,https://www.rbc.ru/politics/07/05/2024/6639812b9a79475b8994fa3f,Политика,2
+normalized_title,134,607,Гладков сообщил об обстреле Шебекино,https://www.rbc.ru/rbcfreenews/659c05e69a79471e2fbdfd13,Политика,2
+normalized_title,134,9391,Гладков сообщил об обстреле Шебекино,https://www.rbc.ru/rbcfreenews/65f1299f9a794783f5513c07,Политика,2
+normalized_title,135,21302,Два беспилотника сбили над Белгородской областью,https://www.rbc.ru/rbcfreenews/665597e79a79472967862222,Политика,3
+normalized_title,135,21548,Два беспилотника сбили над Белгородской областью,https://www.rbc.ru/rbcfreenews/66571a3d9a7947cad21ac3a0,Политика,3
+normalized_title,135,22070,Два беспилотника сбили над Белгородской областью,https://www.rbc.ru/rbcfreenews/665b33b19a79472b413fef40,Политика,3
+normalized_title,136,19336,Два человека пострадали при обстреле Шебекино,https://www.rbc.ru/rbcfreenews/66452b179a794752e6ab33c9,Политика,2
+normalized_title,136,35762,Два человека пострадали при обстреле Шебекино,https://www.rbc.ru/rbcfreenews/66ccd6fe9a7947704fa6762b,Политика,2
+normalized_title,137,14909,Движение автомобилей по Крымскому мосту временно перекрыли,https://www.rbc.ru/rbcfreenews/661f3a3a9a7947be8efa90bb,Общество,2
+normalized_title,137,16232,Движение автомобилей по Крымскому мосту временно перекрыли,https://www.rbc.ru/rbcfreenews/6629e5fd9a7947535c1b1e86,Политика,2
+normalized_title,138,1206,Движение автомобилей по Крымскому мосту приостановили,https://www.rbc.ru/rbcfreenews/65a219a19a79471d97942610,Общество,2
+normalized_title,138,8829,Движение автомобилей по Крымскому мосту приостановили,https://www.rbc.ru/rbcfreenews/65ec16709a794700cbb504c0,Общество,2
+normalized_title,139,22448,Жителей Белгорода предупредили о ракетной опасности,https://www.rbc.ru/rbcfreenews/665e63259a7947574184231a,Политика,2
+normalized_title,139,23651,Жителей Белгорода предупредили о ракетной опасности,https://www.rbc.ru/rbcfreenews/666729729a7947b949be6b37,Политика,2
+normalized_title,140,32573,Жителей Курской области предупредили о ракетной опасности,https://www.rbc.ru/rbcfreenews/66b0e9a29a794705523dcb0d,Политика,2
+normalized_title,140,32626,Жителей Курской области предупредили о ракетной опасности,https://www.rbc.ru/rbcfreenews/66b1586b9a7947e4e49e7947,Политика,2
+normalized_title,141,19863,Жителей Курской области предупредили об опасности атаки беспилотников,https://www.rbc.ru/rbcfreenews/6649484e9a79477be20ca7a6,Политика,2
+normalized_title,141,32045,Жителей Курской области предупредили об опасности атаки беспилотников,https://www.rbc.ru/rbcfreenews/66ac1e9d9a7947bb7baea299,Политика,2
+normalized_title,142,33917,Жителей Липецкой области предупредили о воздушной опасности,https://www.rbc.ru/rbcfreenews/66bbca8f9a79473a341a9d83,Политика,2
+normalized_title,142,40857,Жителей Липецкой области предупредили о воздушной опасности,https://www.rbc.ru/rbcfreenews/66f8a1179a794716aec1bec6,Политика,2
+normalized_title,143,3047,Захарян получил травму в матче чемпионата Испании,https://www.rbc.ru/sport/27/01/2024/65b50c739a7947050764298a,Спорт,2
+normalized_title,143,6872,Захарян получил травму в матче чемпионата Испании,https://www.rbc.ru/sport/24/02/2024/65d9997a9a79471577ba9505,Спорт,2
+normalized_title,144,20178,Исполнители теракта в «Крокусе» не стали обжаловать продление ареста,https://www.rbc.ru/rbcfreenews/664be07e9a7947294bfbc561,Общество,2
+normalized_title,144,34776,Исполнители теракта в «Крокусе» не стали обжаловать продление ареста,https://www.rbc.ru/rbcfreenews/66c3f01c9a7947b751b9dfbc,Общество,2
+normalized_title,145,25549,Кличко сообщил о взрывах в Киеве,https://www.rbc.ru/politics/23/06/2024/66778ca69a7947840dccf60b,Политика,2
+normalized_title,145,34225,Кличко сообщил о взрывах в Киеве,https://www.rbc.ru/politics/16/08/2024/66be70a49a794728240d5a34,Политика,2
+normalized_title,146,1325,КНДР запустила баллистическую ракету,https://www.rbc.ru/rbcfreenews/65a37f2b9a794771f5948ffc,Политика,2
+normalized_title,146,19566,КНДР запустила баллистическую ракету,https://www.rbc.ru/rbcfreenews/6646fed89a79472f08b4ac5f,Политика,2
+normalized_title,147,26047,КНДР запустила баллистическую ракету в сторону Японского моря,https://www.rbc.ru/rbcfreenews/667b3eb49a794760f0064d1e,Политика,2
+normalized_title,147,26802,КНДР запустила баллистическую ракету в сторону Японского моря,https://www.rbc.ru/rbcfreenews/6681c04c9a79474a0e74b747,Политика,2
+normalized_title,148,3096,КНДР запустила несколько крылатых ракет в сторону Японского моря,https://www.rbc.ru/rbcfreenews/65b5bff39a79474a3c7578e2,Политика,2
+normalized_title,148,5428,КНДР запустила несколько крылатых ракет в сторону Японского моря,https://www.rbc.ru/rbcfreenews/65cc42a39a7947d7b69b7af5,Политика,2
+normalized_title,149,22055,КНДР снова отправила воздушные шары с мусором и навозом в Южную Корею,https://www.rbc.ru/rbcfreenews/665b15489a794700d8de01ef,Политика,2
+normalized_title,149,23395,КНДР снова отправила воздушные шары с мусором и навозом в Южную Корею,https://www.rbc.ru/rbcfreenews/6664d6c19a79472f66d34c9c,Политика,2
+normalized_title,150,32744,Курский губернатор сообщил о сбитой над регионом ракете,https://www.rbc.ru/politics/06/08/2024/66b2221d9a7947fba3f528a7,Политика,2
+normalized_title,150,33401,Курский губернатор сообщил о сбитой над регионом ракете,https://www.rbc.ru/rbcfreenews/66b735479a7947f108255fa5,Политика,2
+normalized_title,151,12809,Кучеров обновил два рекорда в одном матче НХЛ,https://www.rbc.ru/rbcfreenews/660e17d99a79477feb9ad996,Спорт,2
+normalized_title,151,12833,Кучеров обновил два рекорда в одном матче НХЛ,https://www.rbc.ru/sport/04/04/2024/660e42b79a794776fe3ad04d,Спорт,2
+normalized_title,152,26500,Минобороны отчиталось о двух сбитых над Белгородской областью дронах,https://www.rbc.ru/rbcfreenews/667e9c089a7947a7d30985a9,Политика,2
+normalized_title,152,34111,Минобороны отчиталось о двух сбитых над Белгородской областью дронах,https://www.rbc.ru/rbcfreenews/66bd96a99a79470c1a6458f6,Политика,2
+normalized_title,153,23250,Минобороны отчиталось о сбитом над Белгородской областью беспилотнике,https://www.rbc.ru/rbcfreenews/666348179a79470c3bfb62a9,Политика,2
+normalized_title,153,35595,Минобороны отчиталось о сбитом над Белгородской областью беспилотнике,https://www.rbc.ru/rbcfreenews/66cb88d09a7947d9c215e8fa,Политика,2
+normalized_title,154,8323,Минобороны отчиталось о сбитом украинском МиГ-29,https://www.rbc.ru/rbcfreenews/65e7134f9a7947306d53487d,Политика,2
+normalized_title,154,29170,Минобороны отчиталось о сбитом украинском МиГ-29,https://www.rbc.ru/rbcfreenews/6694fe419a794732e1562f22,Политика,2
+normalized_title,155,35246,Минобороны отчиталось о семи сбитых за ночь дронах,https://www.rbc.ru/rbcfreenews/66c811ac9a7947fb197d8105,Политика,2
+normalized_title,155,35406,Минобороны отчиталось о семи сбитых за ночь дронах,https://www.rbc.ru/rbcfreenews/66c95e6f9a7947226af2e336,Политика,2
+normalized_title,156,23902,Минобороны раскрыло детали второго этапа ядерных учений,https://www.rbc.ru/politics/12/06/2024/66692a839a794746193030b4,Политика,2
+normalized_title,156,24055,Минобороны раскрыло детали второго этапа ядерных учений,https://www.rbc.ru/politics/13/06/2024/666ac3ca9a7947bb84636ae5,Политика,2
+normalized_title,157,22037,Минобороны сообщило о групповом ударе по объектам энергетики Украины,https://www.rbc.ru/politics/01/06/2024/665af4289a7947be2c6b9b8e,Политика,2
+normalized_title,157,25455,Минобороны сообщило о групповом ударе по объектам энергетики Украины,https://www.rbc.ru/politics/22/06/2024/6676a9b89a79476737de5aa2,Политика,2
+normalized_title,158,3553,Минобороны сообщило о занятии более выгодных позиций на двух направлениях,https://www.rbc.ru/rbcfreenews/65ba2ae99a794760763bd4a7,Политика,2
+normalized_title,158,3726,Минобороны сообщило о занятии более выгодных позиций на двух направлениях,https://www.rbc.ru/rbcfreenews/65bb82e59a79475c246a158f,Политика,2
+normalized_title,159,23333,Минобороны сообщило о сбитом украинском вертолете Ми-8,https://www.rbc.ru/rbcfreenews/666437aa9a7947362b7792e4,Политика,2
+normalized_title,159,23449,Минобороны сообщило о сбитом украинском вертолете Ми-8,https://www.rbc.ru/rbcfreenews/666584719a79473e002ab642,Политика,2
+normalized_title,160,3877,Минобороны сообщило об улучшении позиций на двух направлениях,https://www.rbc.ru/rbcfreenews/65bce2ce9a794754db32dd41,Политика,2
+normalized_title,160,4239,Минобороны сообщило об улучшении позиций на двух направлениях,https://www.rbc.ru/rbcfreenews/65c0cb479a79473f27fd32bd,Политика,2
+normalized_title,161,2652,Минобороны сообщило об улучшении позиций на донецком направлении,https://www.rbc.ru/politics/24/01/2024/65b113fa9a7947ec61eb7188,Политика,2
+normalized_title,161,5181,Минобороны сообщило об улучшении позиций на донецком направлении,https://www.rbc.ru/rbcfreenews/65ca018d9a79477acd28c7a6,Политика,2
+normalized_title,162,7301,Минобороны сообщило об уничтожении двух дронов в Белгородской области,https://www.rbc.ru/rbcfreenews/65ddc6289a7947a6ac473165,Политика,2
+normalized_title,162,7945,Минобороны сообщило об уничтожении двух дронов в Белгородской области,https://www.rbc.ru/rbcfreenews/65e36f8f9a79476a71efc0d7,Политика,2
+normalized_title,163,10321,Минобороны сообщило об уничтожении дрона над Белгородской областью,https://www.rbc.ru/rbcfreenews/65f939a49a79477288f45af1,Политика,3
+normalized_title,163,22294,Минобороны сообщило об уничтожении дрона над Белгородской областью,https://www.rbc.ru/rbcfreenews/665d3fbf9a79473f2f9da44b,Политика,3
+normalized_title,163,23505,Минобороны сообщило об уничтожении дрона над Белгородской областью,https://www.rbc.ru/rbcfreenews/6665f5cd9a794716ff67723c,Политика,3
+normalized_title,164,33514,Минобороны сообщило об уничтожении колонны техники ВСУ в Курской области,https://www.rbc.ru/rbcfreenews/66b85bdf9a7947e60f2678f7,Политика,2
+normalized_title,164,44935,Минобороны сообщило об уничтожении колонны техники ВСУ в Курской области,https://www.rbc.ru/rbcfreenews/671b1b809a7947d7bbde821f,Политика,2
+normalized_title,165,17385,Мужчина получил ранения при ударе дрона по машине в Белгородской области,https://www.rbc.ru/rbcfreenews/6634824c9a7947c4ff193f86,Политика,2
+normalized_title,165,34483,Мужчина получил ранения при ударе дрона по машине в Белгородской области,https://www.rbc.ru/rbcfreenews/66c0e4a09a7947f1f6be5863,Политика,2
+normalized_title,166,37216,Мутко для РБК,https://www.rbc.ru/?video_id=66d9af089a7947789518ebb7,,2
+normalized_title,166,37217,Мутко для РБК,https://www.rbc.ru/?video_id=66d9af049a79471c43e1ee7e,,2
+normalized_title,167,11758,Мэр сообщил о взрывах в Харькове,https://www.rbc.ru/rbcfreenews/66049d3f9a794717cd2ade76,Политика,2
+normalized_title,167,38274,Мэр сообщил о взрывах в Харькове,https://www.rbc.ru/politics/12/09/2024/66e2f3719a7947b79fe46f45,Политика,2
+normalized_title,168,9642,Мэр Харькова сообщил о взрывах в городе,https://www.rbc.ru/rbcfreenews/65f2f06a9a7947077ddae604,Политика,5
+normalized_title,168,13142,Мэр Харькова сообщил о взрывах в городе,https://www.rbc.ru/rbcfreenews/661070849a7947e78aa1baab,Политика,5
+normalized_title,168,15812,Мэр Харькова сообщил о взрывах в городе,https://www.rbc.ru/rbcfreenews/6626b8b99a7947c2fe3a5bc5,Политика,5
+normalized_title,168,17684,Мэр Харькова сообщил о взрывах в городе,https://www.rbc.ru/rbcfreenews/66376c409a7947b9dd7473f1,Политика,5
+normalized_title,168,38508,Мэр Харькова сообщил о взрывах в городе,https://www.rbc.ru/rbcfreenews/66e4f1339a794725c53be814,Политика,5
+normalized_title,169,12261,Мэр Харькова сообщил о взрыве в городе,https://www.rbc.ru/politics/31/03/2024/660964819a794700e0754021,Политика,4
+normalized_title,169,15624,Мэр Харькова сообщил о взрыве в городе,https://www.rbc.ru/rbcfreenews/662554019a794766823de6b2,Политика,4
+normalized_title,169,20774,Мэр Харькова сообщил о взрыве в городе,https://www.rbc.ru/rbcfreenews/66509f5e9a794777d0c5cba1,Политика,4
+normalized_title,169,21493,Мэр Харькова сообщил о взрыве в городе,https://www.rbc.ru/rbcfreenews/6656d9ca9a794721abc5ee34,Политика,4
+normalized_title,170,18924,На всей территории Белгородской области объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/664229a89a7947bc9ebabfe8,Политика,3
+normalized_title,170,19889,На всей территории Белгородской области объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/6649a2059a79476a992df6ce,Общество,3
+normalized_title,170,32217,На всей территории Белгородской области объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/66ad58ab9a79478339921140,Политика,3
+normalized_title,171,20978,На всей территории Украины объявили воздушную тревогу,https://www.rbc.ru/rbcfreenews/665286dc9a79474e45beb40d,Политика,3
+normalized_title,171,21987,На всей территории Украины объявили воздушную тревогу,https://www.rbc.ru/rbcfreenews/665a6ed49a7947ef38be0a7f,Политика,3
+normalized_title,171,23885,На всей территории Украины объявили воздушную тревогу,https://www.rbc.ru/rbcfreenews/6668ee769a794755a4fccbc1,Политика,3
+normalized_title,172,8078,На Крымском мосту перекрыли движение автотранспорта,https://www.rbc.ru/rbcfreenews/65e51bd69a794769bc9ab9a8,Политика,2
+normalized_title,172,18819,На Крымском мосту перекрыли движение автотранспорта,https://www.rbc.ru/rbcfreenews/6641872e9a794735d533715e,Общество,2
+normalized_title,173,25444,На подлете к Белгороду сбили несколько воздушных целей,https://www.rbc.ru/politics/22/06/2024/667698a39a79471cf62f6524,Политика,2
+normalized_title,173,44069,На подлете к Белгороду сбили несколько воздушных целей,https://www.rbc.ru/politics/19/10/2024/6713d67e9a79471ba5aeda1c,Политика,2
+normalized_title,174,34795,На Украине сообщили о повреждении инфраструктуры в Запорожской области,https://www.rbc.ru/politics/20/08/2024/66c42f319a79476dd978b0c3,Политика,2
+normalized_title,174,43006,На Украине сообщили о повреждении инфраструктуры в Запорожской области,https://www.rbc.ru/rbcfreenews/670b62469a79472615d3a19a,Политика,2
+normalized_title,175,37653,Над Белгородской и Курской областями сбили дроны,https://www.rbc.ru/rbcfreenews/66de7ba79a794731fdb942cc,Политика,2
+normalized_title,175,38553,Над Белгородской и Курской областями сбили дроны,https://www.rbc.ru/rbcfreenews/66e56ab49a79477ef00b3565,Политика,2
+normalized_title,176,4119,Над Белгородской областью сбили беспилотник,https://www.rbc.ru/rbcfreenews/65bfb82c9a7947b0e4e8e749,Политика,13
+normalized_title,176,6908,Над Белгородской областью сбили беспилотник,https://www.rbc.ru/rbcfreenews/65d9e7f09a7947ad68361831,Политика,13
+normalized_title,176,11113,Над Белгородской областью сбили беспилотник,https://www.rbc.ru/rbcfreenews/65fec5969a7947373c18dbcf,Политика,13
+normalized_title,176,15525,Над Белгородской областью сбили беспилотник,https://www.rbc.ru/rbcfreenews/662423df9a7947cd4f4491e1,Политика,13
+normalized_title,176,17026,Над Белгородской областью сбили беспилотник,https://www.rbc.ru/rbcfreenews/6630c3d59a7947325efd4603,Политика,13
+normalized_title,176,24629,Над Белгородской областью сбили беспилотник,https://www.rbc.ru/rbcfreenews/666ff7449a7947473dab06b6,Политика,13
+normalized_title,176,27761,Над Белгородской областью сбили беспилотник,https://www.rbc.ru/rbcfreenews/668941af9a79470bc0ab7907,Политика,13
+normalized_title,176,27784,Над Белгородской областью сбили беспилотник,https://www.rbc.ru/rbcfreenews/66897dc59a79470dfcfbc5af,Политика,13
+normalized_title,176,28938,Над Белгородской областью сбили беспилотник,https://www.rbc.ru/rbcfreenews/6692eb9b9a79473c7ff55bfd,Политика,13
+normalized_title,176,29474,Над Белгородской областью сбили беспилотник,https://www.rbc.ru/rbcfreenews/669777779a794776b832eee1,Политика,13
+normalized_title,176,29740,Над Белгородской областью сбили беспилотник,https://www.rbc.ru/rbcfreenews/66996b729a79473528b7f0bf,Политика,13
+normalized_title,176,31274,Над Белгородской областью сбили беспилотник,https://www.rbc.ru/rbcfreenews/66a644ec9a79477eb247e9d0,Политика,13
+normalized_title,176,41900,Над Белгородской областью сбили беспилотник,https://www.rbc.ru/rbcfreenews/67019b739a7947583d775ea3,Политика,13
+normalized_title,177,6936,Над Белгородской областью сбили второй за день беспилотник,https://www.rbc.ru/rbcfreenews/65da2c5e9a7947212669a282,Политика,2
+normalized_title,177,7189,Над Белгородской областью сбили второй за день беспилотник,https://www.rbc.ru/rbcfreenews/65dcae629a79475c37fcbc8a,Политика,2
+normalized_title,178,11577,Над Белгородской областью сбили два беспилотника,https://www.rbc.ru/rbcfreenews/6602f60f9a7947f94960ca7f,Политика,3
+normalized_title,178,14555,Над Белгородской областью сбили два беспилотника,https://www.rbc.ru/rbcfreenews/661c35a69a79471aa34b41c2,Политика,3
+normalized_title,178,41628,Над Белгородской областью сбили два беспилотника,https://www.rbc.ru/rbcfreenews/66fefb779a79471461ba385b,Политика,3
+normalized_title,179,6825,Над Белгородской областью сбили дрон,https://www.rbc.ru/rbcfreenews/65d8f6369a7947cfb9778b7c,Политика,10
+normalized_title,179,11961,Над Белгородской областью сбили дрон,https://www.rbc.ru/rbcfreenews/6606707d9a7947e604a9797b,Политика,10
+normalized_title,179,13222,Над Белгородской областью сбили дрон,https://www.rbc.ru/rbcfreenews/661151cc9a79474df968f970,Политика,10
+normalized_title,179,13336,Над Белгородской областью сбили дрон,https://www.rbc.ru/rbcfreenews/66128c339a7947cecfe35840,Политика,10
+normalized_title,179,18906,Над Белгородской областью сбили дрон,https://www.rbc.ru/rbcfreenews/66420c5f9a7947dbde1230b2,Политика,10
+normalized_title,179,23355,Над Белгородской областью сбили дрон,https://www.rbc.ru/rbcfreenews/666468d99a7947fad852f875,Политика,10
+normalized_title,179,23985,Над Белгородской областью сбили дрон,https://www.rbc.ru/rbcfreenews/6669fbe09a794706c8c1d5fd,Политика,10
+normalized_title,179,26640,Над Белгородской областью сбили дрон,https://www.rbc.ru/rbcfreenews/667ff1ad9a7947b9e4aa1cfa,Политика,10
+normalized_title,179,31145,Над Белгородской областью сбили дрон,https://www.rbc.ru/rbcfreenews/66a4d6f59a79472405c4128f,Политика,10
+normalized_title,179,32216,Над Белгородской областью сбили дрон,https://www.rbc.ru/rbcfreenews/66ad52239a79479eae2a6484,Политика,10
+normalized_title,180,11584,Над Белгородской областью сбили еще два беспилотника,https://www.rbc.ru/rbcfreenews/6603036c9a79478c8d3a3963,Политика,3
+normalized_title,180,12145,Над Белгородской областью сбили еще два беспилотника,https://www.rbc.ru/rbcfreenews/66081f2b9a79476688aa5b80,Политика,3
+normalized_title,180,18212,Над Белгородской областью сбили еще два беспилотника,https://www.rbc.ru/rbcfreenews/663b8ba79a794715f2bc5e9d,Политика,3
+normalized_title,181,9899,Над Белгородской областью сбили еще два дрона,https://www.rbc.ru/rbcfreenews/65f538ec9a7947be77a8078a,Политика,2
+normalized_title,181,12453,Над Белгородской областью сбили еще два дрона,https://www.rbc.ru/rbcfreenews/660b18e89a7947fa8d0d27ea,Политика,2
+normalized_title,182,17038,Над Белгородской областью сбили еще один беспилотник,https://www.rbc.ru/rbcfreenews/6630dd0a9a7947b4cf3608ee,Политика,2
+normalized_title,182,36184,Над Белгородской областью сбили еще один беспилотник,https://www.rbc.ru/rbcfreenews/66d06b649a7947033d9d6d0b,Политика,2
+normalized_title,183,4559,Над Белгородской областью сбили семь снарядов Vampire,https://www.rbc.ru/politics/07/02/2024/65c394769a7947c76f00e6e1,Политика,2
+normalized_title,183,9736,Над Белгородской областью сбили семь снарядов Vampire,https://www.rbc.ru/rbcfreenews/65f3df929a7947159b558617,Политика,2
+normalized_title,184,7473,Над Белгородской областью сбили украинский беспилотник,https://www.rbc.ru/rbcfreenews/65df38d59a794743a2ef3e4d,Политика,4
+normalized_title,184,14319,Над Белгородской областью сбили украинский беспилотник,https://www.rbc.ru/rbcfreenews/661a29fb9a7947722b9d5b89,Политика,4
+normalized_title,184,32246,Над Белгородской областью сбили украинский беспилотник,https://www.rbc.ru/rbcfreenews/66adccc59a79473ec46931d8,Политика,4
+normalized_title,184,37525,Над Белгородской областью сбили украинский беспилотник,https://www.rbc.ru/rbcfreenews/66dc9ef79a7947e319ff53ed,Политика,4
+normalized_title,185,10730,Над Белгородской областью сбили украинский дрон,https://www.rbc.ru/rbcfreenews/65fc248c9a7947969a02d704,Политика,4
+normalized_title,185,17150,Над Белгородской областью сбили украинский дрон,https://www.rbc.ru/rbcfreenews/66323d249a79470d0755dda5,Политика,4
+normalized_title,185,18440,Над Белгородской областью сбили украинский дрон,https://www.rbc.ru/rbcfreenews/663de0189a79475e5c55de54,Политика,4
+normalized_title,185,41417,Над Белгородской областью сбили украинский дрон,https://www.rbc.ru/rbcfreenews/66fd50db9a794724fac689f5,Политика,4
+normalized_title,186,3661,Над Белгородской областью сбили четыре беспилотника,https://www.rbc.ru/rbcfreenews/65bb0ca39a79473519e071d5,Политика,3
+normalized_title,186,21770,Над Белгородской областью сбили четыре беспилотника,https://www.rbc.ru/rbcfreenews/6658bf669a79474f1565a42d,Политика,3
+normalized_title,186,35002,Над Белгородской областью сбили четыре беспилотника,https://www.rbc.ru/rbcfreenews/66c5d2be9a794758a20fcee8,Политика,3
+normalized_title,187,7931,Над Белгородской областью уничтожили беспилотник,https://www.rbc.ru/rbcfreenews/65e3389a9a794711b99073fd,Политика,2
+normalized_title,187,20161,Над Белгородской областью уничтожили беспилотник,https://www.rbc.ru/rbcfreenews/664bac709a79477716b13084,Политика,2
+normalized_title,188,6123,Над Брянской областью сбили беспилотник,https://www.rbc.ru/rbcfreenews/65d2e6f29a79477ccd020925,Политика,7
+normalized_title,188,6269,Над Брянской областью сбили беспилотник,https://www.rbc.ru/rbcfreenews/65d3df4d9a794741e45b631a,Политика,7
+normalized_title,188,8146,Над Брянской областью сбили беспилотник,https://www.rbc.ru/rbcfreenews/65e5ab839a794717cde34f73,Политика,7
+normalized_title,188,21063,Над Брянской областью сбили беспилотник,https://www.rbc.ru/rbcfreenews/665393439a7947f2cc5ba348,Политика,7
+normalized_title,188,36422,Над Брянской областью сбили беспилотник,https://www.rbc.ru/rbcfreenews/66d29d6e9a7947680d80ae08,Политика,7
+normalized_title,188,40022,Над Брянской областью сбили беспилотник,https://www.rbc.ru/rbcfreenews/66f230ea9a7947828fbb9b24,Политика,7
+normalized_title,188,42524,Над Брянской областью сбили беспилотник,https://www.rbc.ru/rbcfreenews/6706fae79a7947bff740a4c0,Политика,7
+normalized_title,189,33910,Над Брянской областью сбили беспилотник ВСУ,https://www.rbc.ru/rbcfreenews/66bbb82b9a79475f3d10dbc2,Политика,2
+normalized_title,189,35611,Над Брянской областью сбили беспилотник ВСУ,https://www.rbc.ru/rbcfreenews/66cbbe3d9a79470edcd66e90,Политика,2
+normalized_title,190,8571,Над Брянской областью сбили два беспилотника,https://www.rbc.ru/rbcfreenews/65e931819a79473eb876b587,Политика,6
+normalized_title,190,10069,Над Брянской областью сбили два беспилотника,https://www.rbc.ru/rbcfreenews/65f70bdb9a7947edd77bbf69,Политика,6
+normalized_title,190,18290,Над Брянской областью сбили два беспилотника,https://www.rbc.ru/rbcfreenews/663c37cd9a79472d386d7bbf,Политика,6
+normalized_title,190,21091,Над Брянской областью сбили два беспилотника,https://www.rbc.ru/rbcfreenews/6653fa3a9a7947434a3645ec,Политика,6
+normalized_title,190,29608,Над Брянской областью сбили два беспилотника,https://www.rbc.ru/rbcfreenews/66988bb29a794786430be81c,Политика,6
+normalized_title,190,30357,Над Брянской областью сбили два беспилотника,https://www.rbc.ru/rbcfreenews/669efa1d9a79470822e9736f,Политика,6
+normalized_title,191,11132,Над Брянской областью сбили два дрона,https://www.rbc.ru/rbcfreenews/65fedae89a794722009e5856,Политика,3
+normalized_title,191,25513,Над Брянской областью сбили два дрона,https://www.rbc.ru/rbcfreenews/6677148f9a7947c3293900b7,Политика,3
+normalized_title,191,27344,Над Брянской областью сбили два дрона,https://www.rbc.ru/rbcfreenews/6685f71a9a794758fcd8c31d,Политика,3
+normalized_title,192,25405,Над Брянской областью сбили два украинских беспилотника,https://www.rbc.ru/rbcfreenews/667607ab9a7947f8d0be0a51,Политика,2
+normalized_title,192,25520,Над Брянской областью сбили два украинских беспилотника,https://www.rbc.ru/rbcfreenews/66772cf89a79474768f9a7b7,Политика,2
+normalized_title,193,19337,Над Брянской областью сбили дрон,https://www.rbc.ru/rbcfreenews/6645314d9a794763e86f680b,Политика,2
+normalized_title,193,42996,Над Брянской областью сбили дрон,https://www.rbc.ru/rbcfreenews/670b40189a7947a2d55c9195,Политика,2
+normalized_title,194,13382,Над Брянской областью сбили еще один беспилотник,https://www.rbc.ru/rbcfreenews/6612dbc59a7947a9a3b0992f,Политика,2
+normalized_title,194,42041,Над Брянской областью сбили еще один беспилотник,https://www.rbc.ru/rbcfreenews/6703539b9a794715ee9be0ce,Политика,2
+normalized_title,195,4917,Над Брянской областью сбили три беспилотника,https://www.rbc.ru/rbcfreenews/65c6efd89a794752d3f8d310,Политика,5
+normalized_title,195,18399,Над Брянской областью сбили три беспилотника,https://www.rbc.ru/rbcfreenews/663d566a9a7947838640c2b0,Политика,5
+normalized_title,195,23541,Над Брянской областью сбили три беспилотника,https://www.rbc.ru/rbcfreenews/6666881a9a7947b8e841632f,Политика,5
+normalized_title,195,36100,Над Брянской областью сбили три беспилотника,https://www.rbc.ru/rbcfreenews/66cfb1ed9a79476d4796e3ca,Политика,5
+normalized_title,195,43601,Над Брянской областью сбили три беспилотника,https://www.rbc.ru/rbcfreenews/6710365d9a79473c53a80f86,Политика,5
+normalized_title,196,4806,Над Брянской областью сбили украинский беспилотник,https://www.rbc.ru/rbcfreenews/65c5d47a9a794702305816a2,Политика,2
+normalized_title,196,42363,Над Брянской областью сбили украинский беспилотник,https://www.rbc.ru/rbcfreenews/6705a75a9a79474dcca5056b,Политика,2
+normalized_title,197,2101,Над Брянской областью сбили украинский дрон,https://www.rbc.ru/rbcfreenews/65ab4ed89a7947343d73e8a7,Политика,2
+normalized_title,197,13978,Над Брянской областью сбили украинский дрон,https://www.rbc.ru/rbcfreenews/66178d469a7947c815915932,Политика,2
+normalized_title,198,5982,Над Воронежем сбили украинский беспилотник,https://www.rbc.ru/rbcfreenews/65d11d019a7947397961e641,Политика,2
+normalized_title,198,8408,Над Воронежем сбили украинский беспилотник,https://www.rbc.ru/politics/06/03/2024/65e8031b9a794799a3f4d2d6,Политика,2
+normalized_title,199,29254,Над Воронежской областью сбили украинский беспилотник,https://www.rbc.ru/rbcfreenews/6695a8549a7947dd3a34f3a0,Политика,2
+normalized_title,199,33790,Над Воронежской областью сбили украинский беспилотник,https://www.rbc.ru/rbcfreenews/66babf169a794755d43978ac,Политика,2
+normalized_title,200,22102,Над Курской областью сбили беспилотник,https://www.rbc.ru/rbcfreenews/665b73089a7947d23236c075,Политика,3
+normalized_title,200,38121,Над Курской областью сбили беспилотник,https://www.rbc.ru/rbcfreenews/66e1ab209a79478678f0d85b,Политика,3
+normalized_title,200,40908,Над Курской областью сбили беспилотник,https://www.rbc.ru/rbcfreenews/66f933b89a79472170fa5006,Политика,3
+normalized_title,201,20968,Над Курской областью сбили украинский беспилотник,https://www.rbc.ru/rbcfreenews/665257899a79473d939d610f,Политика,2
+normalized_title,201,31312,Над Курской областью сбили украинский беспилотник,https://www.rbc.ru/rbcfreenews/66a697829a7947017509ee78,Политика,2
+normalized_title,202,26101,Над Курской областью сбили украинскую ракету,https://www.rbc.ru/rbcfreenews/667bd7499a7947758cf5c0af,Политика,4
+normalized_title,202,35969,Над Курской областью сбили украинскую ракету,https://www.rbc.ru/rbcfreenews/66cea73e9a7947d7c51bba66,Политика,4
+normalized_title,202,38198,Над Курской областью сбили украинскую ракету,https://www.rbc.ru/rbcfreenews/66e27f969a7947224f28b51b,Политика,4
+normalized_title,202,43068,Над Курской областью сбили украинскую ракету,https://www.rbc.ru/rbcfreenews/670be5e19a794733a8e4eb1b,Политика,4
+normalized_title,203,9616,Над Орловской областью сбили беспилотник,https://www.rbc.ru/politics/14/03/2024/65f2d5a59a794742555e19fa,Политика,2
+normalized_title,203,21072,Над Орловской областью сбили беспилотник,https://www.rbc.ru/rbcfreenews/6653a9539a7947c0d91476c3,Политика,2
+normalized_title,204,12806,Над Тульской областью сбили два дрона,https://www.rbc.ru/politics/04/04/2024/660e0b2d9a7947b21536dc8b,Политика,3
+normalized_title,204,19346,Над Тульской областью сбили два дрона,https://www.rbc.ru/rbcfreenews/664555349a794778144371e7,Политика,3
+normalized_title,204,34931,Над Тульской областью сбили два дрона,https://www.rbc.ru/politics/21/08/2024/66c535519a794759568948d6,Политика,3
+normalized_title,205,10540,Один человек погиб при обстреле Белгорода,https://www.rbc.ru/politics/20/03/2024/65fabb4d9a79479ba299a98f,Политика,2
+normalized_title,205,36378,Один человек погиб при обстреле Белгорода,https://www.rbc.ru/rbcfreenews/66d2045d9a7947581b98e443,Политика,2
+normalized_title,206,28380,Один человек погиб при обстреле Шебекино,https://www.rbc.ru/politics/10/07/2024/668e5e559a7947e5efbbbe9b,Политика,2
+normalized_title,206,36123,Один человек погиб при обстреле Шебекино,https://www.rbc.ru/politics/29/08/2024/66d00daa9a794743cf3c196c,Политика,2
+normalized_title,207,19128,ПВО сбила несколько целей на подлете к Белгороду,https://www.rbc.ru/rbcfreenews/66438d2e9a7947341a33e953,Политика,4
+normalized_title,207,22808,ПВО сбила несколько целей на подлете к Белгороду,https://www.rbc.ru/rbcfreenews/6660b6cd9a79476bc39435ca,Политика,4
+normalized_title,207,25479,ПВО сбила несколько целей на подлете к Белгороду,https://www.rbc.ru/rbcfreenews/6676d2fb9a7947908c3373fc,Политика,4
+normalized_title,207,36554,ПВО сбила несколько целей на подлете к Белгороду,https://www.rbc.ru/politics/01/09/2024/66d3f3689a79473845510a84,Политика,4
+normalized_title,208,9549,По всей Белгородской области объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/65f248059a7947474d6d2946,Политика,3
+normalized_title,208,26623,По всей Белгородской области объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/667fc5c49a7947cf6e129c64,Политика,3
+normalized_title,208,27200,По всей Белгородской области объявили ракетную опасность,https://www.rbc.ru/rbcfreenews/6684faba9a7947b983300d4e,Политика,3
+normalized_title,209,33477,Под Киевом сработала ПВО,https://www.rbc.ru/politics/11/08/2024/66b7e07a9a7947280d6fcec9,Политика,3
+normalized_title,209,34780,Под Киевом сработала ПВО,https://www.rbc.ru/rbcfreenews/66c40b0f9a79475fc2ec4663,Политика,3
+normalized_title,209,36399,Под Киевом сработала ПВО,https://www.rbc.ru/rbcfreenews/66d2451c9a794730a877cb35,Политика,3
+normalized_title,210,18466,Полиция задержала водителя упавшего в Мойку автобуса,https://www.rbc.ru/rbcfreenews/663e05419a7947ea622b350f,Общество,2
+normalized_title,210,18488,Полиция задержала водителя упавшего в Мойку автобуса,https://www.rbc.ru/society/10/05/2024/663e2ce09a794759b852be68,Общество,2
+normalized_title,211,18101,Польша подняла самолеты из-за «активности дальней авиации России»,https://www.rbc.ru/rbcfreenews/663af76f9a79472da4817d9f,Политика,2
+normalized_title,211,35665,Польша подняла самолеты из-за активности дальней авиации России,https://www.rbc.ru/politics/26/08/2024/66cc389e9a79473edc3b2d8b,Политика,2
+normalized_title,212,23089,Польша подняла самолеты из-за активности российской авиации,https://www.rbc.ru/politics/07/06/2024/666284389a7947e274da2cb7,Политика,2
+normalized_title,212,24182,Польша подняла самолеты из-за активности российской авиации,https://www.rbc.ru/rbcfreenews/666bcc519a7947de08c52dfa,Политика,2
+normalized_title,213,25282,Правительство смягчило требования по продаже валютной выручки,https://www.rbc.ru/politics/21/06/2024/667526759a7947ebcac774e5,Политика,2
+normalized_title,213,28844,Правительство смягчило требования по продаже валютной выручки,https://www.rbc.ru/economics/13/07/2024/669227079a7947ff610f4889,Экономика,2
+normalized_title,214,23830,Присяжные признали сына президента США виновным по делу об оружии,https://www.rbc.ru/politics/11/06/2024/66686c7f9a79474864f06083,Политика,2
+normalized_title,214,23841,Присяжные признали сына президента США виновным по делу об оружии,https://www.rbc.ru/politics/11/06/2024/6668724e9a7947d0e8800f4d,Политика,2
+normalized_title,215,6778,Путин возложил венок к Могиле Неизвестного Солдата,https://www.rbc.ru/society/23/02/2024/65d879e39a7947f273aa4afa,Общество,2
+normalized_title,215,25448,Путин возложил венок к Могиле Неизвестного Солдата,https://www.rbc.ru/rbcfreenews/66769a0d9a79472c9e929451,Общество,2
+normalized_title,216,3910,Путин назвал поддержку россиян основой успеха армии,https://www.rbc.ru/rbcfreenews/65bd1ec69a79476e542e20d0,Политика,2
+normalized_title,216,21733,Путин назвал поддержку россиян основой успеха армии,https://www.rbc.ru/rbcfreenews/665868d59a79472dabb92436,Политика,2
+normalized_title,217,10283,Путин поговорил по телефону с наследным принцем Саудовской Аравии,https://www.rbc.ru/rbcfreenews/65f8be0c9a79477ac5c7f136,Политика,2
+normalized_title,217,29581,Путин поговорил по телефону с наследным принцем Саудовской Аравии,https://www.rbc.ru/rbcfreenews/66982be49a7947787dc0e5df,Политика,2
+normalized_title,218,36989,Путин предложил провести встречу с Си Цзиньпином на саммите БРИКС-2024,https://www.rbc.ru/politics/04/09/2024/66d818989a79475f96509aca,Политика,2
+normalized_title,218,36990,Путин предложил провести встречу с Си Цзиньпином на саммите БРИКС-2024,https://www.rbc.ru/rbcfreenews/66d818989a79475f96509aca,Политика,2
+normalized_title,219,22526,Путин предложил Турчаку возглавить Республику Алтай,https://www.rbc.ru/politics/04/06/2024/665eed029a794749ecfd733c,Политика,2
+normalized_title,219,22538,Путин предложил Турчаку возглавить Республику Алтай,https://www.rbc.ru/politics/04/06/2024/665eed3e9a794765acb72ae9,Политика,2
+normalized_title,220,36993,Путин призвал обеспечить жильем морских пехотинцев,https://www.rbc.ru/politics/04/09/2024/66d8227f9a7947f072bd379e,Политика,2
+normalized_title,220,36994,Путин призвал обеспечить жильем морских пехотинцев,https://www.rbc.ru/rbcfreenews/66d8227f9a7947f072bd379e,Политика,2
+normalized_title,221,10136,Российские Су-34 уничтожили командный пункт ВСУ,https://www.rbc.ru/rbcfreenews/65f7bbce9a794763d295935c,Политика,2
+normalized_title,221,14591,Российские Су-34 уничтожили командный пункт ВСУ,https://www.rbc.ru/rbcfreenews/661cad909a79475cab150c6d,Политика,2
+normalized_title,222,900,Российским керлингистам продлили отстранение от международных турниров,https://www.rbc.ru/sport/10/01/2024/659edd829a7947611438d680,Спорт,2
+normalized_title,222,28601,Российским керлингистам продлили отстранение от международных турниров,https://www.rbc.ru/sport/11/07/2024/669014999a79476b9376be3f,Спорт,2
+normalized_title,223,3566,Россия и Украина обменялись пленными,https://www.rbc.ru/politics/31/01/2024/65ba3ed49a7947047a72c968,Политика,3
+normalized_title,223,21865,Россия и Украина обменялись пленными,https://www.rbc.ru/politics/31/05/2024/66599dc39a79472662324d72,Политика,3
+normalized_title,223,29510,Россия и Украина обменялись пленными,https://www.rbc.ru/politics/17/07/2024/6697acaa9a7947c8a133ba6a,Политика,3
+normalized_title,224,2921,Россия и Украина обменялись телами погибших военных,https://www.rbc.ru/politics/26/01/2024/65b3a9799a79475639f6435b,Политика,3
+normalized_title,224,5812,Россия и Украина обменялись телами погибших военных,https://www.rbc.ru/politics/16/02/2024/65cf59f79a7947a813023bc7,Политика,3
+normalized_title,224,14184,Россия и Украина обменялись телами погибших военных,https://www.rbc.ru/politics/12/04/2024/6618fc149a794794f079ace7,Политика,3
+normalized_title,225,17121,СБУ сообщила о контрразведывательных проверках в центре Киева,https://www.rbc.ru/politics/01/05/2024/6631edb19a7947fbbeaffd9c,Политика,2
+normalized_title,225,23753,СБУ сообщила о контрразведывательных проверках в центре Киева,https://www.rbc.ru/politics/11/06/2024/6668094a9a794729c0e2cbb4,Политика,2
+normalized_title,226,12466,Северная Корея запустила баллистическую ракету в сторону Японского моря,https://www.rbc.ru/rbcfreenews/660b410e9a79474e7fb43533,Политика,3
+normalized_title,226,15677,Северная Корея запустила баллистическую ракету в сторону Японского моря,https://www.rbc.ru/rbcfreenews/6625ff209a794736686f5b41,Политика,3
+normalized_title,226,38171,Северная Корея запустила баллистическую ракету в сторону Японского моря,https://www.rbc.ru/rbcfreenews/66e221a19a79478d666b3186,Политика,3
+normalized_title,227,9303,Синегубов сообщил о взрывах в Харькове,https://www.rbc.ru/rbcfreenews/65f05dcf9a794706a63b1a06,Политика,2
+normalized_title,227,25921,Синегубов сообщил о взрывах в Харькове,https://www.rbc.ru/rbcfreenews/667a6f019a7947d642456a83,Политика,2
+normalized_title,228,18706,СК завел дело о теракте после обстрела Белгорода,https://www.rbc.ru/rbcfreenews/66408d089a794710f281c294,Политика,2
+normalized_title,228,36432,СК завел дело о теракте после обстрела Белгорода,https://www.rbc.ru/rbcfreenews/66d2af889a7947cff8858464,Политика,2
+normalized_title,229,12092,Средства ПВО сбили два беспилотника над Белгородской областью,https://www.rbc.ru/rbcfreenews/6607a1bd9a794775f848086c,Политика,2
+normalized_title,229,18379,Средства ПВО сбили два беспилотника над Белгородской областью,https://www.rbc.ru/rbcfreenews/663d230a9a794717f61fd837,Политика,2
+normalized_title,230,38493,Фигурант дела об аварии в котельной в Подольске частично признал вину,https://www.rbc.ru/society/14/09/2024/66e4c94a9a794703d7691eb2,Общество,2
+normalized_title,230,38494,Фигурант дела об аварии в котельной в Подольске частично признал вину,https://www.rbc.ru/rbcfreenews/66e4c94a9a794703d7691eb2,Общество,2
+normalized_title,231,8623,"ФСБ сообщила о ликвидации террористов, планировавших напасть на синагогу",https://www.rbc.ru/politics/07/03/2024/65e9a4e99a79475b8ab0aeee,Политика,2
+normalized_title,231,8630,"ФСБ сообщила о ликвидации террористов, планировавших напасть на синагогу",https://www.rbc.ru/politics/07/03/2024/65e9a5b29a79476f33ac4f25,Политика,2

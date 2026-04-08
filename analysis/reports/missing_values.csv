@@ -1,0 +1,14 @@
+original_name,normalized_name,missing_count,missing_ratio,non_null_count,pandas_dtype,python_types
+badge,badge,45081,0.9996452092156907,16,str,str
+body,body,20056,0.4447302481318048,25041,str,str
+picture,picture,3161,0.0700933543251214,41936,str,str
+category- учитель,category_teacher,25,0.0005543606004834024,45072,str,str
+fronturl,fronturl,0,0.0,45097,str,str
+project,project,0,0.0,45097,str,str
+project_nick,project_nick,0,0.0,45097,str,str
+publish_date,publish_date,0,0.0,45097,str,str
+publish_date_t,publish_date_t,0,0.0,45097,int64,int
+text,text,0,0.0,45097,str,str
+title,title,0,0.0,45097,str,str
+type,type,0,0.0,45097,str,str
+Unnamed: 0,unnamed_0,0,0.0,45097,int64,int
