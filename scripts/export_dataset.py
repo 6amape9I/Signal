@@ -63,11 +63,11 @@ def export_dataset(output_path: Path) -> Path:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Export labeled data for signal_back.")
+    parser = argparse.ArgumentParser(description="Export labeled data bundle.")
     parser.add_argument(
         "--output",
         type=Path,
-        default=EXPORTS_DIR / "signal_back_dataset.json",
+        default=EXPORTS_DIR / "dataset_export.json",
     )
     args = parser.parse_args()
 

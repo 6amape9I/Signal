@@ -19,7 +19,7 @@ Collectors and exports may add:
 
 ```json
 {
-  "source": "legacy_articles/part_1.json",
+  "source": "banki_ru/train.json",
   "url": "https://example.com/article",
   "collected_at": "2026-04-08T12:00:00+00:00"
 }
@@ -29,7 +29,7 @@ Optional fields must not replace `input` or `output`.
 
 ## Directory Intent
 
-- `datasets/raw/`: source links, raw exports, spreadsheets, databases.
+- `datasets/raw/`: source links, raw exports, and databases.
 - `datasets/interim/`: cleaned text dumps and intermediate conversions.
-- `datasets/labeled/`: labeled JSON datasets and legacy splits.
-- `datasets/exports/`: downstream-ready bundles for `signal_back`.
+- `datasets/labeled/`: labeled JSON datasets when present.
+- `datasets/exports/`: downstream-ready bundles when generated.

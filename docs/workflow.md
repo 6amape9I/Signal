@@ -5,7 +5,7 @@ Signal manages the dataset lifecycle from collection to export.
 ## 1. Collect Raw Data
 
 - Run collectors from `scripts/`.
-- Store source links, spreadsheets, and raw dumps under `datasets/raw/`.
+- Store source links and raw dumps under `datasets/raw/`.
 
 Examples:
 
@@ -21,9 +21,8 @@ python scripts/run_banki_ru.py --max-page 10
 
 ## 3. Maintain Labeled Data
 
-- Keep labeled JSON arrays under `datasets/labeled/`.
+- Add labeled JSON arrays under `datasets/labeled/` when needed.
 - Every record must include `input` and `output`.
-- Legacy train/val/test splits stay under `datasets/labeled/legacy_splits/`.
 
 ## 4. Validate
 
@@ -33,12 +32,12 @@ Run the dataset validator before export:
 python scripts/validate_dataset.py
 ```
 
-## 5. Export for signal_back
+## 5. Export
 
-Build a single downstream bundle:
+Build a downstream bundle:
 
 ```powershell
 python scripts/export_dataset.py
 ```
 
-The resulting file is written to `datasets/exports/` and should contain only active labeled data, not archived material.
+The resulting file is written to `datasets/exports/` and should contain only active labeled data.

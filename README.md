@@ -2,16 +2,13 @@
 
 Signal is a repository for data collection and dataset preparation.
 
-Training, inference, and deployment have been moved out of this repository:
-- backend and ML integration live in `signal_back`
-- UI lives in `signal_front`
+Training, inference, deployment, and UI live outside this repository.
 
 This repository keeps:
 - source collectors in `collectors/`
 - raw and interim data in `datasets/raw/` and `datasets/interim/`
-- labeled datasets in `datasets/labeled/`
-- export bundles for `signal_back` in `datasets/exports/`
-- historical student work and removed ML assets in `archive/`
+- labeled datasets in `datasets/labeled/` when they exist
+- export bundles in `datasets/exports/` when they are generated
 
 ## Structure
 
@@ -21,11 +18,8 @@ Signal/
   datasets/
     raw/
     interim/
-    labeled/
-    exports/
   docs/
   scripts/
-  archive/
 ```
 
 ## Quick Start
@@ -50,13 +44,13 @@ Run the Banki.ru collector:
 python scripts/run_banki_ru.py
 ```
 
-Validate the labeled dataset:
+Validate the dataset layout:
 
 ```powershell
 python scripts/validate_dataset.py
 ```
 
-Export a dataset bundle for `signal_back`:
+Export a dataset bundle:
 
 ```powershell
 python scripts/export_dataset.py
@@ -64,9 +58,9 @@ python scripts/export_dataset.py
 
 ## Data Flow
 
-- `datasets/raw/` stores source links, raw exports, XLSX files, and other source artifacts.
+- `datasets/raw/` stores source links, raw exports, and source files.
 - `datasets/interim/` stores cleaned text dumps and intermediate conversions.
-- `datasets/labeled/` stores labeled JSON datasets and legacy train/val/test splits.
-- `datasets/exports/` stores ready-to-consume bundles for downstream repositories.
+- `datasets/labeled/` is created when labeled JSON datasets are added.
+- `datasets/exports/` is created when export bundles are generated.
 
 See `docs/workflow.md` and `docs/data_schema.md` for the detailed workflow and schema.
